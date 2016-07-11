@@ -2363,7 +2363,7 @@ msgstr "Undvik klippning på ReplayGain-filer"
 
 msgctxt "#644"
 msgid "Stretch 16:9 - Nonlinear"
-msgstr "Sträck 16:9"
+msgstr "Sträck 16:9 - Ickelinjär"
 
 msgctxt "#645"
 msgid "Need to unpack a big file. Continue?"
