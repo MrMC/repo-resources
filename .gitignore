@@ -13,3 +13,5 @@
 **/.gitattributes
 **/.gitignore
 Thumbs.db
+.DS_Store
+/script
