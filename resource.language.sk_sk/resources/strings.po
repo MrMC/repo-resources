@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Slovak (Slovakia) (http://www.transifex.com/projects/p/kodi-main/language/sk_SK/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: sk_SK\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Nastavenia"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Správca súborov"
@@ -48,10 +52,6 @@ msgstr "Správca súborov"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Počasie"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media center"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "Prostredie"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Nastavenia zvuku"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "O Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Pokračovať od %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Uprednostniť zmiešavač videa VPDAU"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Aktivovať hárdverovú akceleráciu - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Aktivovať hárdverovú akceleráciu - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "Oneskorenie preskočenia"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Diaľkové ovládanie Apple"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Povoliť spustenie Kodi diaľkovým ovládaním"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Redukcia šumu"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Ostrosť"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Inverzný Telecine"
@@ -7481,10 +7461,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Zadajte názov pre nový kanál"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi virtuálny backend"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Klient"
@@ -8236,10 +8212,6 @@ msgstr "Nahrávky"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Screenshoty"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Použiť Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -9949,10 +9921,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Hlavný priečinok súborového systému"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Medzipamäť plná"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Externé úložisko"
@@ -10892,10 +10860,6 @@ msgstr "Automaticky prevziať prvé titulky zo zoznamu výsledkov vyhľadávania
 msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Konfigurácia bola prenesená"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Konfigurácia XBMC bola po update na Kodi presunútá na iné miesto. Pre viac informácií prosím navštívte http://kodi.wiki/view/Migration - táto správa sa znovu nezobrazí."
 
 msgctxt "#24141"
 msgid "Add-on disabled"
@@ -12253,10 +12217,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Automaticky"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -12300,3 +12260,47 @@ msgstr "Ziadne hodnotenie"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Ohodnotiť"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi media center"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "O Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Aktivovať hárdverovú akceleráciu - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Povoliť spustenie Kodi diaľkovým ovládaním"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Ostrosť"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi virtuálny backend"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Použiť Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Medzipamäť plná"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "Konfigurácia XBMC bola po update na Kodi presunútá na iné miesto. Pre viac informácií prosím navštívte http://kodi.wiki/view/Migration - táto správa sa znovu nezobrazí."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Burmese (Myanmar) (http://www.transifex.com/projects/p/kodi-main/language/my_MM/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: my_MM\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -33,10 +41,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "ပြုပြင်ရန်"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "ဖိုင်စီမံခန့်ခွဲမှု"
@@ -44,10 +48,6 @@ msgstr "ဖိုင်စီမံခန့်ခွဲမှု"
 msgctxt "#8"
 msgid "Weather"
 msgstr "ရာသီဥတု"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi မီဒီယာ စင်တာ"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1301,10 +1301,6 @@ msgctxt "#480"
 msgid "Appearance"
 msgstr "အပြင်အဆင်"
 
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodi အကြောင်း"
-
 msgctxt "#485"
 msgid "Delete album"
 msgstr "အယ်လ်ဘမ်ကိုဖျက်မည်"
@@ -2372,10 +2368,6 @@ msgstr "အစကနေစမည်"
 msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "%s ကနေစမည်"
-
-msgctxt "#12310"
-msgid "0"
-msgstr "၀"
 
 msgctxt "#12311"
 msgid "1"
@@ -3745,10 +3737,6 @@ msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Screenshots"
 
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Kodi ကိုသုံးမည်"
-
 msgctxt "#20013"
 msgid "Do you wish to launch the game?"
 msgstr "ဂိမ်းကိုဖွင့်ချင်ပါသလား။"
@@ -4416,10 +4404,6 @@ msgstr "ပြင်ဆင်ရန်"
 msgctxt "#21451"
 msgid "Internet connection required."
 msgstr "Internet connection လိုအပ်သည်"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Cache ပြည့်နေသည်"
 
 msgctxt "#21461"
 msgid "Fixed"
@@ -5196,3 +5180,23 @@ msgstr "သီချင်းများ"
 msgctxt "#37026"
 msgid "Auto"
 msgstr "အလိုအလျောက်"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi မီဒီယာ စင်တာ"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Kodi အကြောင်း"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Kodi ကိုသုံးမည်"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Cache ပြည့်နေသည်"

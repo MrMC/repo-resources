@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: XBMC Main\n"
-"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Ossetic (http://www.transifex.com/projects/p/xbmc-main/language/os/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: os\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -29,17 +37,9 @@ msgctxt "#3"
 msgid "Videos"
 msgstr "Видео"
 
-msgctxt "#4"
-msgid "TV-Guide"
-msgstr "TV-Фӕтӕг"
-
 msgctxt "#5"
 msgid "Settings"
 msgstr "Уаг"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
 
 msgctxt "#7"
 msgid "File manager"
@@ -48,10 +48,6 @@ msgstr "Файл армдарӕн"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Боныгъӕд"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi медиа центр"
 
 msgctxt "#11"
 msgid "Monday"
@@ -361,26 +357,6 @@ msgctxt "#119"
 msgid "New folder"
 msgstr "Ног тыхтон"
 
-msgctxt "#120"
-msgid "Confirm file copy"
-msgstr "Сбӕлвыр кӕн файлы халдих"
-
-msgctxt "#121"
-msgid "Confirm file move"
-msgstr "Сбӕлвырд кӕн файлы хаст"
-
-msgctxt "#123"
-msgid "Copy these files?"
-msgstr "Ацы файлтӕ хъӕуы халдих кӕнын?"
-
-msgctxt "#124"
-msgid "Move these files?"
-msgstr "Ацы файлтӕ хъӕуы ахӕссын?"
-
-msgctxt "#125"
-msgid "Delete these files? - Deleting files cannot be undone!"
-msgstr "Ацы файлтӕ хъӕуы схафын? - Раздӕхӕн сын нӕ уыдзӕн!"
-
 msgctxt "#126"
 msgid "Status"
 msgstr "Уавӕр"
@@ -428,10 +404,6 @@ msgstr "Плейлисттӕ"
 msgctxt "#137"
 msgid "Search"
 msgstr "Агурын"
-
-msgctxt "#138"
-msgid "System Information"
-msgstr "Системӕйы информаци"
 
 msgctxt "#139"
 msgid "Temperatures:"
@@ -700,3 +672,39 @@ msgstr "Видео"
 msgctxt "#36921"
 msgid "songs"
 msgstr "Зарджытӕ"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi медиа центр"
+
+msgctxt "#4"
+msgid "TV-Guide"
+msgstr "TV-Фӕтӕг"
+
+msgctxt "#120"
+msgid "Confirm file copy"
+msgstr "Сбӕлвыр кӕн файлы халдих"
+
+msgctxt "#121"
+msgid "Confirm file move"
+msgstr "Сбӕлвырд кӕн файлы хаст"
+
+msgctxt "#123"
+msgid "Copy these files?"
+msgstr "Ацы файлтӕ хъӕуы халдих кӕнын?"
+
+msgctxt "#124"
+msgid "Move these files?"
+msgstr "Ацы файлтӕ хъӕуы ахӕссын?"
+
+msgctxt "#125"
+msgid "Delete these files? - Deleting files cannot be undone!"
+msgstr "Ацы файлтӕ хъӕуы схафын? - Раздӕхӕн сын нӕ уыдзӕн!"
+
+msgctxt "#138"
+msgid "System Information"
+msgstr "Системӕйы информаци"

@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: English (Australia) (http://www.transifex.com/projects/p/kodi-main/language/en_AU/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: en_AU\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Settings"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "File manager"
@@ -48,10 +52,6 @@ msgstr "File manager"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Weather"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media centre"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1680,10 +1680,6 @@ msgstr "Appearance"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Audio options"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "About Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3561,10 +3557,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Resume from %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4648,10 +4640,6 @@ msgstr "%d Minute"
 msgctxt "#13555"
 msgid "%d Minutes"
 msgstr "%d Minutes"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Allow start of Kodi using the remote"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6045,10 +6033,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Enter the name of the new channel"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi virtual backend"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Client"
@@ -6384,10 +6368,6 @@ msgstr "Recordings"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Screenshots"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Use Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -7933,10 +7913,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Root filesystem"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Cache full"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "External storage"
@@ -8752,10 +8728,6 @@ msgstr "Automatically download first subtitle from the search result list"
 msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Configuration has been moved"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
 
 msgctxt "#24141"
 msgid "Add-on disabled"
@@ -10209,10 +10181,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -10232,3 +10200,39 @@ msgstr "GPU accelerated"
 msgctxt "#38015"
 msgid "Unlimited"
 msgstr "Unlimited"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi media centre"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "About Kodi"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Allow start of Kodi using the remote"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi virtual backend"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Use Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Cache full"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

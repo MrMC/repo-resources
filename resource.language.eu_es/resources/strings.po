@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Basque (Spain) (http://www.transifex.com/projects/p/kodi-main/language/eu_ES/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: eu_ES\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Ezarpenak"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Fitxategi kudeatzailea"
@@ -48,10 +52,6 @@ msgstr "Fitxategi kudeatzailea"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Eguraldia"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media zentroa"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1744,10 +1744,6 @@ msgstr "Itxura"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Audioaren aukerak"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodiri buruz"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3449,10 +3445,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "%s-tik hasi"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4408,10 +4400,6 @@ msgstr "Artea gehitu"
 msgctxt "#13551"
 msgid "Off"
 msgstr "Itzali"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Onartu Kodi hastea urrutiko agintearekin"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -5541,10 +5529,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Idatzi kate berriaren izena"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi interfaze birtuala"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Bezeroa"
@@ -5784,10 +5768,6 @@ msgstr "Grabazioak"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Pantaila irudiak"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Erabili Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -7273,10 +7253,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Erroko fitxategi-sistema"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Cache osoa"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Kanpo biltegiratzea"
@@ -8724,3 +8700,31 @@ msgstr "Azkenengoan erabilitako profila"
 msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi media zentroa"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Kodiri buruz"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Onartu Kodi hastea urrutiko agintearekin"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi interfaze birtuala"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Erabili Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Cache osoa"

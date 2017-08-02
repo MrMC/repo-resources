@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Albanian (Albania) (http://www.transifex.com/projects/p/kodi-main/language/sq_AL/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: sq_AL\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -33,10 +41,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Cilësimet"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Skedari"
@@ -44,10 +48,6 @@ msgstr "Skedari"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Moti"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Media qendër Kodi"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1612,10 +1612,6 @@ msgstr "Pamja"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Opcionet audio"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Përreth Kodi'së"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3273,10 +3269,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Rrifilloni nga %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4232,10 +4224,6 @@ msgstr "Pauzoni gjatë ndërrimit të 'refresh rate'"
 msgctxt "#13551"
 msgid "Off"
 msgstr "Nga"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Lejoni startimin të Kodi'së nëpërmjet telekomandës"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -5485,10 +5473,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Shkruani emrin e kanalit të ri"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Backend'i virtual i Kodi'së"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Klienti"
@@ -5788,10 +5772,6 @@ msgstr "Rregjistrime"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Screenshots"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Përdorni Kodi'në"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -7265,10 +7245,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Filesistemi root"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "U plotsua cache'i"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Harddisk i jashtëm"
@@ -8568,3 +8544,31 @@ msgstr "Këngët"
 msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Media qendër Kodi"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Përreth Kodi'së"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Lejoni startimin të Kodi'së nëpërmjet telekomandës"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Backend'i virtual i Kodi'së"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Përdorni Kodi'në"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "U plotsua cache'i"

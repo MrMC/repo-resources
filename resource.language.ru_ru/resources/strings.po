@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/kodi-main/language/ru_RU/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Настройки"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Менеджер файлов"
@@ -48,10 +52,6 @@ msgstr "Менеджер файлов"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Погода"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Медиацентр Kodi"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "Внешний вид"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Параметры аудио"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "О Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Продолжить с %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Испрользовать VDPAU Video Mixer по умолчанию"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Включить аппаратное ускорение - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Включить аппаратное ускорение - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "Задержка перемотки"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Пульт Apple"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Разрешить запуск Kodi с пульта ДУ"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "Шумоподавление - VDPAU"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "Резкость - VDPAU"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Обратный пуллдаун (3:2)"
@@ -7481,10 +7461,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Введите название нового канала"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Виртуальный сервер Kodi"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Клиент"
@@ -8236,10 +8212,6 @@ msgstr "Записи"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Скриншоты"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Использовать Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10065,14 +10037,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Корневая ФС"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Кэш заполнен"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Объема кэша недостаточно для непрерывного воспрозведения"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Внешнее хранилище"
@@ -11161,10 +11125,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Конфигурация была перенесена"
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Настройки XBMC перемещены в новую папку Kodi. См.: http://kodi.wiki/view/Migration. Это сообщение больше не будет отображаться."
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "Разрешить поиск субтитров"
@@ -11236,10 +11196,6 @@ msgstr "Сканер музыкальной медиатеки"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "Ошибка сканирования %s: %s"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "Не удалось подключиться  к репозиторию."
 
 msgctxt "#24992"
 msgid "System"
@@ -13569,10 +13525,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "Укажите тип используемого пульта ДУ."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Использовать агент, чтобы запускать Kodi при помощи пульта дистанционного управления."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "Время задержки между нажатиями клавиш у универсального пульта ДУ."
@@ -13588,10 +13540,6 @@ msgstr "Поиск внешних субтитров для видео пред�
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "Отключение смесителя VDPAU. Уменьшает нагрузку на систему, но немного снижает качество изображения."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Включение аппаратного декодирования видео файлов при помощи декодера Amlogic."
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14013,10 +13961,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Авто"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14140,3 +14084,63 @@ msgstr "Без рейтинга"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Установить мой рейтинг"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Медиацентр Kodi"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "О Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Включить аппаратное ускорение - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Разрешить запуск Kodi с пульта ДУ"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "Резкость - VDPAU"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Виртуальный сервер Kodi"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Использовать Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Кэш заполнен"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "Объема кэша недостаточно для непрерывного воспрозведения"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "Настройки XBMC перемещены в новую папку Kodi. См.: http://kodi.wiki/view/Migration. Это сообщение больше не будет отображаться."
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "Не удалось подключиться  к репозиторию."
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Использовать агент, чтобы запускать Kodi при помощи пульта дистанционного управления."
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Включение аппаратного декодирования видео файлов при помощи декодера Amlogic."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Serbian (Serbia) (http://www.transifex.com/projects/p/kodi-main/language/sr_RS/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: sr_RS\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Подешавања"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Менаџер датотека"
@@ -48,10 +52,6 @@ msgstr "Менаџер датотека"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Време"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi медијски центар"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "Изглед"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Опције звука"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "О систему Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Настави од %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Дати предност VDPAU видео миксеру"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Допусти хардверско убрзање - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Допусти хардверско убрзање - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "Одлагање прескакања"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Apple Даљински Управљач"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Допусти покретање Kodi апликације коришћењем даљинског управљача"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6545,10 +6529,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Умањивање шума"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Оштрина"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Обрнути telecine"
@@ -7485,10 +7465,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Унесите име новог канала"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Коди виртуелна позадина"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Клијент"
@@ -8244,10 +8220,6 @@ msgstr "Снимци"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Слике екрана"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Користи Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10073,14 +10045,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Корен система датотека"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Попуњен кеш"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Кеш попуњен пре достизања потребне количине за непрекидну репродукцију"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Спољашње складиштење"
@@ -11169,10 +11133,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Подешавања су померена."
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Подешавања XBMC -а су померена на нову локацију за Kodi-а. Молимо, упутите се на http://kodi.wiki/view/Migration - ова порука неће бити поново приказана!"
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "Омогући рашчлањивање скривених титлова"
@@ -11244,10 +11204,6 @@ msgstr "Претраживач музичке библиотеке"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "Неуспело претраживање %s: %s"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "Није могуће повезивање са спремиштем."
 
 msgctxt "#24992"
 msgid "System"
@@ -13577,10 +13533,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "Одредите тип даљинског управљача који се користи."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Увек покрени Kodi помоћника тако да се даљински управљач може користити за покретање Kodi."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "Одредите одлагање између секвенци тастера на универзалном даљинском управљачу."
@@ -13596,10 +13548,6 @@ msgstr "Потражи спољашње титлове за видее обез�
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "Заобилажење VDPAU миксера штеди ресурсе на системима са мало снаге али благо смањује квалитет слике."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Омогући хардверско видео декодирање користећи Amlogic декодер."
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14025,10 +13973,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Аутоматски"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14152,3 +14096,63 @@ msgstr "Нема оцена"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Постави моју оцену"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi медијски центар"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "О систему Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Допусти хардверско убрзање - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Допусти покретање Kodi апликације коришћењем даљинског управљача"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Оштрина"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Коди виртуелна позадина"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Користи Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Попуњен кеш"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "Кеш попуњен пре достизања потребне количине за непрекидну репродукцију"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "Подешавања XBMC -а су померена на нову локацију за Kodi-а. Молимо, упутите се на http://kodi.wiki/view/Migration - ова порука неће бити поново приказана!"
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "Није могуће повезивање са спремиштем."
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Увек покрени Kodi помоћника тако да се даљински управљач може користити за покретање Kodi."
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Омогући хардверско видео декодирање користећи Amlogic декодер."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Tajik (Tajikistan) (http://www.transifex.com/projects/p/kodi-main/language/tg_TJ/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: tg_TJ\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Танзимот"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Мудири файлҳо"
@@ -48,10 +52,6 @@ msgstr "Мудири файлҳо"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Обу ҳаво"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Маркази мултимедиаи Kodi"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1692,10 +1692,6 @@ msgstr "Намуди зоҳирӣ"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Имконоти аудио"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Дар бораи Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3493,10 +3489,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Идома додан аз %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4540,10 +4532,6 @@ msgstr "%d дақиқа"
 msgctxt "#13555"
 msgid "%d Minutes"
 msgstr "%d дақиқа"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Иҷозати оғоз кардани Kodi ба воситаи пулт"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -5881,10 +5869,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Номи шабакаи навро ворид кунед"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Сервери виртуалии Kodi"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Муштарӣ"
@@ -6200,10 +6184,6 @@ msgstr "Сабтҳо"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Суратҳои экран"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Истифодаи Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -7740,10 +7720,6 @@ msgstr "Пайвастшавии Интернет лозим аст."
 msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Системаи файлии root"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Зерҳофиза пур шудааст"
 
 msgctxt "#21456"
 msgid "External storage"
@@ -9692,3 +9668,31 @@ msgstr "Шумо мехоҳед, ки пахшро дар дастгоҳи ду�
 msgctxt "#37026"
 msgid "Auto"
 msgstr "Худкор"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Маркази мултимедиаи Kodi"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Дар бораи Kodi"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Иҷозати оғоз кардани Kodi ба воситаи пулт"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Сервери виртуалии Kodi"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Истифодаи Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Зерҳофиза пур шудааст"

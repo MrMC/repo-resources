@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Afrikaans (South Africa) (http://www.transifex.com/projects/p/kodi-main/language/af_ZA/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: af_ZA\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Verstellings"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Lêer bestuurder"
@@ -48,10 +52,6 @@ msgstr "Lêer bestuurder"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Weer"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi mediasentrum"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "Voorkoms"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Oudio opsies"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Omtrent Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Hervat vanaf %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Verkies VDPAU video menger"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Laat hardeware versnelling toe - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Laat hardeware versnelling toe - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "Oorslaan vertraging"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Apple Remote"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Laat begin van Kodi toe met die afstandbeheer"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Geraas redusering"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Skerpgeid"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Inverse telecine"
@@ -7481,10 +7461,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Tik die naam van die nuwe kanaal in"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi virtuele agterkant"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Klient"
@@ -8236,10 +8212,6 @@ msgstr "Opnames"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Skermskote"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Gebruik Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10065,14 +10037,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Wortelgids lêerstelsel"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Kas vol"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Kas gevul voor vereiste hoeveelheid bereik is vir ononderbroke terugspeel"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Eksterne stoorplek"
@@ -11161,10 +11125,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Konfigurasie het geskuif"
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Die konfigurasie van XBMC is geskuif na die nuwe ligging vir Kodi. Verwys asseblief na http://kodi.wiki/view/Migration - hierdie boodskap sal nie weer vertoon word nie!"
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "Stel ontleding in staat vir geslote opskrifte"
@@ -11236,10 +11196,6 @@ msgstr "Musiek biblioteek deursoeker"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "Gefaal om %s te deursoek: %s"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "Kon nie aan stoorplek konnekteer nie."
 
 msgctxt "#24992"
 msgid "System"
@@ -13569,10 +13525,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "Spesifiseer die tipe afstandbeheer wat gebruik word."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Loop altyd 'n Kodi helper sodat die afstandbeheer gebruik kan word om Kodi te begin."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "Spesifiseer die vertraging tussen knoppie sekwensies op 'n universale afstandbeheer."
@@ -13588,10 +13540,6 @@ msgstr "Soek vir eksterne onderskrifte vir videos voorsien deur die UPnP bediene
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "Verbysteek van die VDPAU menger spaar hulpbronne op lae krag stelsels, maar reduseer beeld kwaliteit effens."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Stel hardeware video dekodering met AmLogic dekodeerder in staat."
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14013,10 +13961,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Outo"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14140,3 +14084,63 @@ msgstr "Geen gradering"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Stel my gradering"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi mediasentrum"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Omtrent Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Laat hardeware versnelling toe - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Laat begin van Kodi toe met die afstandbeheer"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Skerpgeid"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi virtuele agterkant"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Gebruik Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Kas vol"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "Kas gevul voor vereiste hoeveelheid bereik is vir ononderbroke terugspeel"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "Die konfigurasie van XBMC is geskuif na die nuwe ligging vir Kodi. Verwys asseblief na http://kodi.wiki/view/Migration - hierdie boodskap sal nie weer vertoon word nie!"
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "Kon nie aan stoorplek konnekteer nie."
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Loop altyd 'n Kodi helper sodat die afstandbeheer gebruik kan word om Kodi te begin."
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Stel hardeware video dekodering met AmLogic dekodeerder in staat."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

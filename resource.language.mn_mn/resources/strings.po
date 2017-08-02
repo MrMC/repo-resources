@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Mongolian (Mongolia) (http://www.transifex.com/projects/p/kodi-main/language/mn_MN/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: mn_MN\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -33,10 +41,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Тохиргоо"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Файл менежер"
@@ -44,10 +48,6 @@ msgstr "Файл менежер"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Цаг агаар"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi медиа төв"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1585,10 +1585,6 @@ msgctxt "#19207"
 msgid "Group:"
 msgstr "Групп:"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi виртуал ар тал"
-
 msgctxt "#19211"
 msgid "Delete channel"
 msgstr "Суваг устгах"
@@ -1872,3 +1868,15 @@ msgstr "Дуу"
 msgctxt "#36921"
 msgid "songs"
 msgstr "Дуу"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi медиа төв"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi виртуал ар тал"

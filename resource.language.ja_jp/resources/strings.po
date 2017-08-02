@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/kodi-main/language/ja_JP/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: ja_JP\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "設定"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "ファイルマネージャー"
@@ -48,10 +52,6 @@ msgstr "ファイルマネージャー"
 msgctxt "#8"
 msgid "Weather"
 msgstr "天気予報"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi メディアセンター"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "外観"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "オーディオ設定"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodi について"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "%s から再開"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "VDPAU ビデオミキサーを優先する"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "ハードウェアアクセラレータを許可 - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "ハードウェアアクセラレータを許可 - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "スキップの開始遅延"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Apple リモート"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "リモコンからの Kodi の起動を許可"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - ノイズリダクション"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - シャープネス"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "逆テレシネ"
@@ -7461,10 +7441,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "新しいチャンネルの名前を入力"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi 仮想バックエンド"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "クライアント"
@@ -7872,10 +7848,6 @@ msgstr "録画"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "スクリーンショット"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Kodi を使用"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -9456,10 +9428,6 @@ msgstr "さらに取得..."
 msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "ルートファイルシステム"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Cache full"
 
 msgctxt "#21456"
 msgid "External storage"
@@ -11393,10 +11361,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "自動"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -11416,3 +11380,43 @@ msgstr "制限なし"
 msgctxt "#38016"
 msgid "%d fps"
 msgstr "%d fps"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi メディアセンター"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Kodi について"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "ハードウェアアクセラレータを許可 - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "リモコンからの Kodi の起動を許可"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - シャープネス"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi 仮想バックエンド"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Kodi を使用"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Cache full"
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

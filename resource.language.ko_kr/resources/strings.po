@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/kodi-main/language/ko_KR/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "설정"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "파일 관리자"
@@ -48,10 +52,6 @@ msgstr "파일 관리자"
 msgctxt "#8"
 msgid "Weather"
 msgstr "날씨"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi 미디어 센터"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "모양새"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "오디오 옵션"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodi 정보"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4085,10 +4081,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "%s 부터 되시작"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5249,10 +5241,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "VDPAU 비디오 믹서 우선"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "하드웨어 가속 허용 - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "하드웨어 가속 허용 - MediaCodec"
@@ -5404,10 +5392,6 @@ msgstr "건너뛰기 지연"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Apple 리모트"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "리모트를 사용하여 Kodi 시작 허용"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6533,10 +6517,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - 노이즈 제거"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - 선명도"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Inverse telecine"
@@ -7469,10 +7449,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "새 채널 이름 입력"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi 가상 백엔드"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "클라이언트"
@@ -8224,10 +8200,6 @@ msgstr "녹화"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "스크린샷"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Kodi 사용"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10053,14 +10025,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "루트 파일시스템"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "캐시 가득참"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "끊임 없는 재생에 필요한 양만큼 데이터를 가져오기 전에 캐시가 가득찼습니다."
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "외부 저장장치"
@@ -11149,10 +11113,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "환경설정 파일이 이동되었습니다"
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "XBMC 환경 설정 파일이 Kodi의 새 위치로 이동되었습니다. http://kodi.wiki/view/Migration 을 참고하세요 - 이 안내문은 다시 표시되지 않습니다!"
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "클로즈드 캡션 분석 사용"
@@ -11224,10 +11184,6 @@ msgstr "음악 라이브러리 검색기"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "%s 검색 실패: %s"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "저장소에 연결할 수 없습니다."
 
 msgctxt "#24992"
 msgid "System"
@@ -13557,10 +13513,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "사용하는 리모트 종류를 설정합니다."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "리모컨으로 Kodi 를 실행할 수 있게 Kodi helper 를 항상 실행합니다."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "유니버설 리모트에서 버튼 시퀀스의 지연 시간을 설정합니다."
@@ -13576,10 +13528,6 @@ msgstr "UPnP 서버 비디오의 외부 자막을 찾습니다. CPU, 파일 시�
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "VDPAU 믹서를 우회하면 낮은 사양의 시스템에서 자원을 절약할 수 았으나 약간의 화질 감소가 있습니다."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Amlogic 디코더를 사용하여 비디오를 하드웨어 디코드합니다."
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14001,10 +13949,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "자동"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14128,3 +14072,63 @@ msgstr "-"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "내 평점 설정"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi 미디어 센터"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Kodi 정보"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "하드웨어 가속 허용 - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "리모트를 사용하여 Kodi 시작 허용"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - 선명도"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi 가상 백엔드"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Kodi 사용"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "캐시 가득참"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "끊임 없는 재생에 필요한 양만큼 데이터를 가져오기 전에 캐시가 가득찼습니다."
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "XBMC 환경 설정 파일이 Kodi의 새 위치로 이동되었습니다. http://kodi.wiki/view/Migration 을 참고하세요 - 이 안내문은 다시 표시되지 않습니다!"
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "저장소에 연결할 수 없습니다."
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "리모컨으로 Kodi 를 실행할 수 있게 Kodi helper 를 항상 실행합니다."
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Amlogic 디코더를 사용하여 비디오를 하드웨어 디코드합니다."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

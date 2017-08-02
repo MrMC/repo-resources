@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Macedonian (Macedonia) (http://www.transifex.com/projects/p/kodi-main/language/mk_MK/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: mk_MK\n"
-"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Поставки"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Коди SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Менаџер на датотеки"
@@ -48,10 +52,6 @@ msgstr "Менаџер на датотеки"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Време"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi медија центар"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1724,10 +1724,6 @@ msgstr "Прикажување"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Опции на звук"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "За Kodi системот"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3717,10 +3713,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Продолжи од %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4816,10 +4808,6 @@ msgstr "%d Минута"
 msgctxt "#13555"
 msgid "%d Minutes"
 msgstr "%d Минути"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Дозволи стартување на Kodi аплик. со користење на далечинско"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6281,10 +6269,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Внесете име за новиот канал"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi виртуелен backend"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Клиент"
@@ -6624,10 +6608,6 @@ msgstr "Снимки"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Слики на екранот"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Користи Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -8081,10 +8061,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Root filesystem"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Кешот е полн"
-
 msgctxt "#21457"
 msgid "Watched episode count"
 msgstr "Број на гледани епизоди"
@@ -9337,10 +9313,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Автоматски"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -9364,3 +9336,35 @@ msgstr "Неограничено"
 msgctxt "#38016"
 msgid "%d fps"
 msgstr "%d fps"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Коди SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi медија центар"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "За Kodi системот"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Дозволи стартување на Kodi аплик. со користење на далечинско"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi виртуелен backend"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Користи Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Кешот е полн"
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

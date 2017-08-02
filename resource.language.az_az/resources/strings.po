@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Azerbaijani (Azerbaijan) (http://www.transifex.com/projects/p/kodi-main/language/az_AZ/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: az_AZ\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -33,10 +41,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Parametrlər"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Fayl meneceri"
@@ -44,10 +48,6 @@ msgstr "Fayl meneceri"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Hava proqnozu"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi mediya mərkəzi"
 
 msgctxt "#11"
 msgid "Monday"
@@ -777,10 +777,6 @@ msgctxt "#479"
 msgid "Skin & language"
 msgstr "Skinlər və dil"
 
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodi haqqında"
-
 msgctxt "#485"
 msgid "Delete album"
 msgstr "Albomu sil"
@@ -1445,10 +1441,6 @@ msgctxt "#10516"
 msgid "Music - Library"
 msgstr "Musiqi - Kitabxana"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -1960,3 +1952,15 @@ msgstr "Albom"
 msgctxt "#36921"
 msgid "songs"
 msgstr "Mahnılar"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi mediya mərkəzi"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Kodi haqqında"

@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/kodi-main/language/hu_HU/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Beállítások"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Fájlkezelő"
@@ -48,10 +52,6 @@ msgstr "Fájlkezelő"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Időjárás"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi médiaközpont"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "Megjelenés"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Hangbeállítások"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "A Kodiról"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Folytatás innen: %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "VDPAU videókeverő előnyben részesítése"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Hardveres gyorsítás engedélyezése - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Hardveres gyorsítás engedélyezése - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "Léptetések közötti késleltetés"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Apple távirányító"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "A Kodi indítható legyen távirányítóval"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Zajszűrés"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Képélesség"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Fordított telecine konvertálás"
@@ -7481,10 +7461,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Adja meg az új csatorna nevét"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi virtuális háttérkiszolgáló"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Ügyfél"
@@ -8236,10 +8212,6 @@ msgstr "Felvételek"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Képernyőmentések "
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Kodi használata"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10065,14 +10037,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Gyökér fájlrendszer"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Gyorsítótár megtelt"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "A gyorsítótár még azelőtt megtelt, hogy elegendő lett volna a folyamatos lejátszáshoz"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Külső tároló"
@@ -11161,10 +11125,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "A konfiguráció át lett helyezve"
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Az XBMC konfigurációja új helyre lett másolva a Kodi számára. Tájékozódjon a http://kodi.wiki/view/Migration webcímen a részletekről - ez az üzenet nem fog többet megjelenni!"
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "Feliratok kinyerésének engedélyezése"
@@ -11236,10 +11196,6 @@ msgstr "Zenetár átvizsgáló"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "%s átvizsgálása sikertelen: %s"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "Sikertelen csatlakozás a tárolóhoz"
 
 msgctxt "#24992"
 msgid "System"
@@ -13569,10 +13525,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "A távirányító típusának meghatározása."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Mindig indítson el egy Kodi súgót"
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "A gombnyomás közti késleltetés megadása univerzális távkapcsoló esetében."
@@ -13588,10 +13540,6 @@ msgstr "Külső feliratok keresése az UPnP kiszolgálók által biztosított vi
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "Kihagyja a VDPAU keverőt, ezáltal erőforrást takarít meg az alacsonyabb teljesítményű rendszeren, de kismértékben rontja a képminőséget."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Amlogic hardveres gyorsítás engedélyezése videó dekodolásához."
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14013,10 +13961,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14140,3 +14084,63 @@ msgstr "Nincs értékelés"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Értékelés beállítása"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi médiaközpont"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "A Kodiról"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Hardveres gyorsítás engedélyezése - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "A Kodi indítható legyen távirányítóval"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Képélesség"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi virtuális háttérkiszolgáló"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Kodi használata"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Gyorsítótár megtelt"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "A gyorsítótár még azelőtt megtelt, hogy elegendő lett volna a folyamatos lejátszáshoz"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "Az XBMC konfigurációja új helyre lett másolva a Kodi számára. Tájékozódjon a http://kodi.wiki/view/Migration webcímen a részletekről - ez az üzenet nem fog többet megjelenni!"
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "Sikertelen csatlakozás a tárolóhoz"
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Mindig indítson el egy Kodi súgót"
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Amlogic hardveres gyorsítás engedélyezése videó dekodolásához."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

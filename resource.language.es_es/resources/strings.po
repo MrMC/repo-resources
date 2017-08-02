@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Spanish (Spain) (http://www.transifex.com/projects/p/kodi-main/language/es_ES/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: es_ES\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Ajustes"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Gestor de archivos"
@@ -48,10 +52,6 @@ msgstr "Gestor de archivos"
 msgctxt "#8"
 msgid "Weather"
 msgstr "El Tiempo"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media center"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "Apariencia"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Opciones de sonido"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Acerca de Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Reanudar desde %s"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Preferir mezclador de vídeo VDPAU"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Permitir aceleración de hardware - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Permitir aceleración de hardware - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "Omitir retardo"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Mando Apple"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Permitir el inicio de Kodi usando el mando"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Reducción de ruido"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Nitidez"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Telecine inverso"
@@ -7481,10 +7461,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Introduzca el nombre del nuevo canal"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Fuente PVR virtual de Kodi"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Cliente"
@@ -8236,10 +8212,6 @@ msgstr "Grabaciones"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Instantáneas"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Usar Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10065,14 +10037,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Raíz del sistema de archivos"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Caché llena"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Caché llena antes de alcanzar la cantidad necesaria para reproducción contínua"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Almacenamiento externo"
@@ -11161,10 +11125,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Configuración movida"
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "La configuración de XBMC se ha movido a una nueva ubicación para Kodi. Por favor, revisa http://kodi.wiki/view/Migration - ¡Este mensaje no se volverá a mostrar!"
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "Activar análisis de subtitulos CC."
@@ -11236,10 +11196,6 @@ msgstr "Escaner de colección de música"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "Fallo al escanear %s: %s"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "No se pudo conectar al repositorio."
 
 msgctxt "#24992"
 msgid "System"
@@ -13569,10 +13525,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "Especifiar el tipo de mando usado."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Siempre ejecutar un asistente de Kodi para que el mando a distancia pueda ser usado al iniciar Kodi."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "Especifique el tiempo transcurrido entre las secuencias de botones en un mando a distancia universal."
@@ -13588,10 +13540,6 @@ msgstr "Buscar subtítulos externos proporcionados por el servidor UPnP. Puede c
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "Evitando el mezclador VDPAU se ahorra recursos en sistemas de baja potencia pero reduce ligeramente la calidad de imagen."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Activar la decodificación de vídeo por hardware utilizando decodificador Amlogic."
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14013,10 +13961,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14140,3 +14084,63 @@ msgstr "Sin calificación"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Establecer mi calificación"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi media center"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Acerca de Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Permitir aceleración de hardware - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Permitir el inicio de Kodi usando el mando"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Nitidez"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Fuente PVR virtual de Kodi"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Usar Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Caché llena"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "Caché llena antes de alcanzar la cantidad necesaria para reproducción contínua"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "La configuración de XBMC se ha movido a una nueva ubicación para Kodi. Por favor, revisa http://kodi.wiki/view/Migration - ¡Este mensaje no se volverá a mostrar!"
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "No se pudo conectar al repositorio."
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Siempre ejecutar un asistente de Kodi para que el mando a distancia pueda ser usado al iniciar Kodi."
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Activar la decodificación de vídeo por hardware utilizando decodificador Amlogic."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

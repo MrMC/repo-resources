@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Estonian (Estonia) (http://www.transifex.com/projects/p/kodi-main/language/et_EE/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: et_EE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -33,10 +41,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Seaded"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Failihaldur"
@@ -44,10 +48,6 @@ msgstr "Failihaldur"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Ilm"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi meediakeskus"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1640,10 +1640,6 @@ msgstr "Välimus"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Audio valikud"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodi teave"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3429,10 +3425,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Jätka %s-st"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4432,10 +4424,6 @@ msgstr "Peata esitus värskendussageduse muutmise ajal"
 msgctxt "#13551"
 msgid "Off"
 msgstr "Väljas"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Luba Kodi käivitamine puldiga"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -5733,10 +5721,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Sisesta uue kanali nimi"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi virtuaalne põhi"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Kilent"
@@ -6052,10 +6036,6 @@ msgstr "Salvestused"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Kuvatõmmised"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Kasuta Kodi-d"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -7564,10 +7544,6 @@ msgstr "Vajalik internetiühendus."
 msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Juurkaust"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Vahemälu täis"
 
 msgctxt "#21456"
 msgid "External storage"
@@ -9292,3 +9268,31 @@ msgstr "Viimati kasutatud profiil"
 msgctxt "#37026"
 msgid "Auto"
 msgstr "Automaatne"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi meediakeskus"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Kodi teave"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Luba Kodi käivitamine puldiga"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi virtuaalne põhi"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Kasuta Kodi-d"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Vahemälu täis"

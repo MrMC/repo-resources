@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/kodi-main/language/zh_CN/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "设置"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "文件管理"
@@ -48,10 +52,6 @@ msgstr "文件管理"
 msgctxt "#8"
 msgid "Weather"
 msgstr "天气"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi 媒体中心"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1792,10 +1792,6 @@ msgstr "用户界面"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "音频选项"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "关于 Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -4093,10 +4089,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "从 %s 处继续播放"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5257,10 +5249,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "首选 VDPAU 视频混合器"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "允许硬件加速 - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "允许硬件加速 - MediaCodec"
@@ -5412,10 +5400,6 @@ msgstr "跳过延迟"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "苹果遥控器"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "允许用遥控器启动 Kodi"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6541,10 +6525,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - 降噪"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - 锐化"
-
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "帧率逆转换"
@@ -7481,10 +7461,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "输入新频道名称"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi 虚拟后端"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "客户端"
@@ -8236,10 +8212,6 @@ msgstr "录像"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "屏幕截图"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "使用 Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10065,14 +10037,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "根文件系统"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "缓存满"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "缓存在达到连续播放所需数量之前已满"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "外部存储器"
@@ -11161,10 +11125,6 @@ msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "设置已被移动"
 
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "XBMC 的设置已移动到 Kodi 的新位置。参见 http://kodi.wiki/view/Migration - 本信息不会再次显示！"
-
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
 msgstr "启用 Closed Caption 字幕处理"
@@ -11236,10 +11196,6 @@ msgstr "音乐资料库扫描器"
 msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "扫描 %s：%s 失败"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "无法连接插件库。"
 
 msgctxt "#24992"
 msgid "System"
@@ -13569,10 +13525,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "指定使用的遥控器类型。"
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "始终运行 Kodi helper 使遥控器可用来启动 Kodi。"
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "指定通用遥控器连续按键间隔。"
@@ -13588,10 +13540,6 @@ msgstr "搜索来自 UPnP 服务器的视频的外挂字幕。这会加重 CPU�
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "在低功耗系统旁路 VDPAU 混合器以减少资源占用，但会稍微降低图像质量。"
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "启用 Amlogic 解码器的视频硬解码。"
 
 msgctxt "#36423"
 msgid "Repeating schedules shall only record new episodes. Not supported by all add-ons and backends."
@@ -14013,10 +13961,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "自动"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14140,3 +14084,63 @@ msgstr "无评价"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "设置我的评价"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi 媒体中心"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "关于 Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "允许硬件加速 - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "允许用遥控器启动 Kodi"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - 锐化"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi 虚拟后端"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "使用 Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "缓存满"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "缓存在达到连续播放所需数量之前已满"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "XBMC 的设置已移动到 Kodi 的新位置。参见 http://kodi.wiki/view/Migration - 本信息不会再次显示！"
+
+msgctxt "#24991"
+msgid "Could not connect to repository."
+msgstr "无法连接插件库。"
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "始终运行 Kodi helper 使遥控器可用来启动 Kodi。"
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "启用 Amlogic 解码器的视频硬解码。"
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

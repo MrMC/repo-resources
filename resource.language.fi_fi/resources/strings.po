@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/kodi-main/language/fi_FI/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fi_FI\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Asetukset"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Tiedostonhallinta"
@@ -48,10 +52,6 @@ msgstr "Tiedostonhallinta"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Sää"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media center"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1784,10 +1784,6 @@ msgstr "Käyttöliittymä"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Ääniasetukset"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Tietoja Kodista"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3981,10 +3977,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Jatka %s:sta"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5117,10 +5109,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Suosi VDPAU videomikseriä"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Salli laitteistokiihdytys - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Salli laitteistokiihdytys - MediaCodec"
@@ -5244,10 +5232,6 @@ msgstr "Ohita viive"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Apple Remote"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Kodi voidaan käynnistää kauko-ohjaimella"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6177,10 +6161,6 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Kohinanvähennys"
 
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Terävyys"
-
 msgctxt "#16316"
 msgid "Auto"
 msgstr "Automaattinen"
@@ -6997,10 +6977,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "Anna uuden kanavan nimi"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodin virtuaalitaustaosa"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "Asiakas"
@@ -7728,10 +7704,6 @@ msgstr "Tallenteet"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Kuvakaappaukset"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Käytä Kodia"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -9476,10 +9448,6 @@ msgstr "Nouda lisää"
 msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Juurikansio"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Välimuisti täynnä"
 
 msgctxt "#21456"
 msgid "External storage"
@@ -11925,10 +11893,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "Määritä käytettävän ohjaimen malli."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Käynnistä Kodi avustin aina, jolloin kauko-ohjainta voi käyttää Kodin käynnistämiseen."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "Määritä viive napin painallusten välillä, kun käytetään yleiskaukosäädintä."
@@ -12217,10 +12181,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Automaattinen"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -12284,3 +12244,47 @@ msgstr "Arviointini"
 msgctxt "#38022"
 msgid "No rating"
 msgstr "Ei arviontia"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi media center"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Tietoja Kodista"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Salli laitteistokiihdytys - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Kodi voidaan käynnistää kauko-ohjaimella"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Terävyys"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodin virtuaalitaustaosa"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Käytä Kodia"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Välimuisti täynnä"
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Käynnistä Kodi avustin aina, jolloin kauko-ohjainta voi käyttää Kodin käynnistämiseen."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"

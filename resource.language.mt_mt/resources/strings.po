@@ -1,17 +1,25 @@
-# Kodi Media Center language file
 msgid ""
 msgstr ""
-"Project-Id-Version: KODI Main\n"
-"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Maltese (Malta) (http://www.transifex.com/projects/p/kodi-main/language/mt_MT/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: mt_MT\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
+"Project-Id-Version: MrMC Main
+"
+"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
+"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+"
+"Last-Translator: MrMC Translation Team
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Language: en_GB
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
 
 msgctxt "#0"
 msgid "Programs"
@@ -37,10 +45,6 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Settings"
 
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
 msgctxt "#7"
 msgid "File manager"
 msgstr "Fajls"
@@ -48,10 +52,6 @@ msgstr "Fajls"
 msgctxt "#8"
 msgid "Weather"
 msgstr "It-Temp"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media center"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1780,10 +1780,6 @@ msgstr "Appearance"
 msgctxt "#481"
 msgid "Audio options"
 msgstr "Opzjoni Awdjo"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Dwar Kodi"
 
 msgctxt "#485"
 msgid "Delete album"
@@ -3937,10 +3933,6 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Kompli mill-aħħar"
 
-msgctxt "#12310"
-msgid "0"
-msgstr "0"
-
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -5081,10 +5073,6 @@ msgctxt "#13437"
 msgid "Prefer VDPAU video mixer"
 msgstr "Ippreferi VDPAU video mixer"
 
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Ippermetti aċċelarazzjoni tal-hardware - amcodec"
-
 msgctxt "#13439"
 msgid "Allow hardware acceleration - MediaCodec"
 msgstr "Ippermetti aċċelarazzjoni tal-hardware - MediaCodec"
@@ -5232,10 +5220,6 @@ msgstr "Aqbeż id-dewmien"
 msgctxt "#13600"
 msgid "Apple Remote"
 msgstr "Remote tal- Apple "
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Ħalli l-Kodi jinxtgħel permezz tar-remote"
 
 msgctxt "#13603"
 msgid "Sequence delay time"
@@ -6084,10 +6068,6 @@ msgstr "Temporal / Spatial"
 msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Tnaqqis tan- noise"
-
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Ċarezza"
 
 msgctxt "#16314"
 msgid "Inverse telecine"
@@ -6973,10 +6953,6 @@ msgctxt "#19208"
 msgid "Enter the name of the new channel"
 msgstr "ikteb l-isem tal-istazzjon il-ġdid"
 
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi backend virtwali"
-
 msgctxt "#19210"
 msgid "Client"
 msgstr "klijent"
@@ -7724,10 +7700,6 @@ msgstr "Recordings"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Screenshots"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Uża Kodi"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -9517,14 +9489,6 @@ msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Root filesystem"
 
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Il-Cache mimli"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Il-Cache leħaq imtela qabel ma ntlaħaq l-ammont li hemm bżonn biex jindaqq mingħajr skossi"
-
 msgctxt "#21456"
 msgid "External storage"
 msgstr "Ħażna esterna"
@@ -10576,10 +10540,6 @@ msgstr "Niżżel l-ewwel sottotitoli mil-lista tar-riżultati tat-tfitxija awtom
 msgctxt "#24128"
 msgid "Configuration has been moved"
 msgstr "Il-Konfigurazzjoni ġiet imċaqalqa"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Il-konfigurazjoni tal-XBMC iċċaqalqet għal post ġdid għall-Kodi. Jekk jogħġbok irreferi għall- http://kodi.wiki/view/Migration - dan il-messaġġ mhux se jerġa' jintwera!"
 
 msgctxt "#24130"
 msgid "Enable parsing for closed captions"
@@ -12605,10 +12565,6 @@ msgctxt "#36416"
 msgid "Specify the type of remote used."
 msgstr "Speċifika t-tip ta' remote li qed jintuża."
 
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Dejjem ħaddem assistent tal-Kodi ħalli tkun tista' tuża r-remote biex tixgħel lil Kodi."
-
 msgctxt "#36418"
 msgid "Specify the delay between button sequences on a universal remote."
 msgstr "Kemm hi twil l-pawża bejn sekwenza ta għafsiet ta' buttuna fuq remote universali."
@@ -12624,10 +12580,6 @@ msgstr "Fittex sottotitoli esterni għal vidjos provduti mis-server UPnP.  Dan j
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
 msgstr "Jekk jinqabeż il-VDPAU mixer tiffranka r-riżorsi fuq sistemi b'konsum t'elettriku baxx imma jnaqqas daqsxejn il-kwalita tal-istampa."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Attiva d-deċifrar tal-vidjo permez ta' apparat billi jintuża' d-deċifratur Amilogic."
 
 msgctxt "#36424"
 msgid "Select what will happen when an item is selected in the guide: [Show context menu] Will trigger the context menu from where you can choose further actions; [Switch to channel] Will instantly tune to the related channel; [Show information] Will display a detailed information with plot and further options; [Record] Will create a recording timer for the selected item."
@@ -12837,10 +12789,6 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Awto"
 
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -12864,3 +12812,59 @@ msgstr "Bla limitu"
 msgctxt "#38016"
 msgid "%d fps"
 msgstr "%d fps"
+
+msgctxt "#6"
+msgid "Kodi SVN"
+msgstr "Kodi SVN"
+
+msgctxt "#9"
+msgid "Kodi media center"
+msgstr "Kodi media center"
+
+msgctxt "#482"
+msgid "About Kodi"
+msgstr "Dwar Kodi"
+
+msgctxt "#13438"
+msgid "Allow hardware acceleration - amcodec"
+msgstr "Ippermetti aċċelarazzjoni tal-hardware - amcodec"
+
+msgctxt "#13602"
+msgid "Allow start of Kodi using the remote"
+msgstr "Ħalli l-Kodi jinxtgħel permezz tar-remote"
+
+msgctxt "#16313"
+msgid "VDPAU - Sharpness"
+msgstr "VDPAU - Ċarezza"
+
+msgctxt "#19209"
+msgid "Kodi virtual backend"
+msgstr "Kodi backend virtwali"
+
+msgctxt "#20009"
+msgid "Use Kodi"
+msgstr "Uża Kodi"
+
+msgctxt "#21454"
+msgid "Cache full"
+msgstr "Il-Cache mimli"
+
+msgctxt "#21455"
+msgid "Cache filled before reaching required amount for continuous playback"
+msgstr "Il-Cache leħaq imtela qabel ma ntlaħaq l-ammont li hemm bżonn biex jindaqq mingħajr skossi"
+
+msgctxt "#24129"
+msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
+msgstr "Il-konfigurazjoni tal-XBMC iċċaqalqet għal post ġdid għall-Kodi. Jekk jogħġbok irreferi għall- http://kodi.wiki/view/Migration - dan il-messaġġ mhux se jerġa' jintwera!"
+
+msgctxt "#36417"
+msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
+msgstr "Dejjem ħaddem assistent tal-Kodi ħalli tkun tista' tuża r-remote biex tixgħel lil Kodi."
+
+msgctxt "#36422"
+msgid "Enable hardware video decode using Amlogic decoder."
+msgstr "Attiva d-deċifrar tal-vidjo permez ta' apparat billi jintuża' d-deċifratur Amilogic."
+
+msgctxt "#37027"
+msgid "540"
+msgstr "540"
