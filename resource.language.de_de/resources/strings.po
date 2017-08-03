@@ -13073,6 +13073,11 @@ msgctxt "#36291"
 msgid "Auto eject disc after rip is complete."
 msgstr "Disk auswerfen, wenn Rip fertiggestellt wurde."
 
+#, fuzzy
+msgctxt "#36292"
+msgid "Wait time before starting LiveTV playback."
+msgstr "Wartezeit vor dem Start der LiveTV-Wiedergabe."
+
 msgctxt "#36301"
 msgid "No info available yet."
 msgstr "Noch keine Informationen vorhanden."
@@ -13629,6 +13634,18 @@ msgctxt "#36461"
 msgid "Notification event describe regular processes and actions performed by the system or the user."
 msgstr "Benachrichtigungs-Ereignisse beschreiben normale Prozesse und Aktionen, die vom System oder vom Benutzer ausglöst wurden."
 
+msgctxt "#36462"
+msgid "Force ver 1 of the SMB protocol. Might solve connection issues."
+msgstr "Force ver 1 des SMB-Protokolls. Können Verbindungsprobleme lösen."
+
+msgctxt "#36463"
+msgid "Overwrite the SMB client configuration (smb.conf) on restart"
+msgstr "Überschreibt die SMB-Client-Konfiguration (smb.conf) beim Neustart"
+
+msgctxt "#36464"
+msgid "Turn debug logging of cpu/memory usage on or off. Useful for troubleshooting."
+msgstr "Debug-Protokollierung von CPU/Speicher-Nutzung ein- oder ausschalten. Nützlich für die Fehlersuche."
+
 msgctxt "#36500"
 msgid "Stereoscopic 3D mode / Current"
 msgstr "Stereoskopischer 3D-Modus / Aktuell"
@@ -13809,6 +13826,130 @@ msgctxt "#36603"
 msgid "This category contains the settings for how video output is handled."
 msgstr "Kategorie mit Einstellungen für die Video-Ausgabe."
 
+msgctxt "#36604"
+msgid "Sort library items by date added"
+msgstr "Sortiert Bibliothekselemente nach Datum hinzugefügt"
+
+msgctxt "#36605"
+msgid "It will sort library items by date added (current date, modified time or creation time)"
+msgstr "Sortiert Bibliothekselemente nach Datum hinzugefügt (aktuelles Datum, modifizierte Zeit oder Erstellungszeit)"
+
+msgctxt "#36606"
+msgid "Current date/time"
+msgstr "Aktuelles Datum/Uhrzeit"
+
+msgctxt "#36609"
+msgid "Timeout in seconds"
+msgstr "Timeout in Sekunden"
+
+msgctxt "#36610"
+msgid "Timeout in seconds for libcurl (http/ftp) connections"
+msgstr "Timeout in Sekunden für libcurl (http/ftp) Verbindungen"
+
+msgctxt "#36613"
+msgid "Amount of retries"
+msgstr "Anzahl der Wiederholungen"
+
+msgctxt "#36614"
+msgid "Amount of retries for certain failed libcurl operations (e.g. timeout)"
+msgstr "Anzahl der Wiederholungen für bestimmte ausgefallene libcurl-Operationen (z. B. Timeout)"
+
+msgctxt "#36615"
+msgid "Disable ipv6"
+msgstr "Deaktiviere ipv6"
+
+msgctxt "#36616"
+msgid "Certain hardware/OS combinations have trouble with ipv6"
+msgstr "Bestimmte Hardware/OS Kombinationen haben Probleme mit ipv6"
+
+msgctxt "#36617"
+msgid "Buffer size (MB)"
+msgstr "Puffergröße (MB)"
+
+msgctxt "#36618"
+msgid "Number of MB used for buffering streams in memory, When set to 0 the cache will be written to disk instead of RAM"
+msgstr "Anzahl der MB, die zum Puffern von Streams im Speicher verwendet wird. Bei der Einstellung auf 0 wird der Cache auf den Datenträger statt auf den RAM geschrieben"
+
+msgctxt "#36619"
+msgid "Buffer mode"
+msgstr "Puffermodus"
+
+msgctxt "#36620"
+msgid "Choose what to buffer(all internet filesystems, all filesystems, true internet filesystems)"
+msgstr "Wählen Sie, was gepuffert werden soll (alle Internet-Dateisysteme, alle Dateisysteme, echte Internet-Dateisysteme)"
+
+msgctxt "#36621"
+msgid "Buffer all internet filesystems"
+msgstr "Puffer alle Internet-Dateisysteme"
+
+msgctxt "#36622"
+msgid "Buffer all filesystems"
+msgstr "Puffer alle Dateisysteme"
+
+msgctxt "#36623"
+msgid "Only buffer true internet filesystems"
+msgstr "Nur Puffer echte Internet-Dateisysteme"
+
+msgctxt "#36624"
+msgid "No buffer"
+msgstr "Kein Puffer"
+
+msgctxt "#36626"
+msgid "Disable to speed up listings of large directories over SMB network"
+msgstr "Deaktivieren, um Auflistungen von großen Verzeichnissen über SMB-Netzwerk zu beschleunigen"
+
+msgctxt "#36627"
+msgid "SMB timeout"
+msgstr "SMB-Timeout"
+
+msgctxt "#36628"
+msgid "SMB timeout (in seconds)"
+msgstr "SMB-Timeout (in Sekunden)"
+
+msgctxt "#36629"
+msgid "Max readrate factor"
+msgstr "Max. Lesefaktor"
+
+msgctxt "#36630"
+msgid "This can help on bad connections to keep the cache filled. It will also greatly speed up buffering"
+msgstr "Dies kann bei schlechten Verbindungen helfen, den Cache gefüllt zu halten. Es wird auch die Pufferung stark beschleunigt."
+
+msgctxt "#36631"
+msgid "Allow hardware decoding of interlaced files."
+msgstr "Hardware-Decodierung von verschachtelten Dateien zulassen."
+
+msgctxt "#36632"
+msgid "Timeout in seconds for MySQL connections"
+msgstr "Timeout in Sekunden für MySQL-Verbindungen"
+
+msgctxt "#36633"
+msgid "Pull watched status from Trakt.tv server"
+msgstr "Pull gesehen Status vom Trakt.tv Server"
+
+msgctxt "#36634"
+msgid "Function to retreive watched status for items on Trakt.tv server, MySql and sqlite(internal MrMC database) only."
+msgstr "Funktion zum Wiederholen des gesehen Status für Elemente auf Trakt.tv Server, MySql und sqlite (nur interne MrMC Datenbank)."
+
+msgctxt "#36635"
+msgid "Push watched status to Trakt.tv server"
+msgstr "Push gesehen Status zum Trakt.tv Server"
+
+msgctxt "#36637"
+msgid "This might cause some duplicate entries in trakt.tv and/or MrMC database. Do you want to proceed?"
+msgstr "Dies könnte zu einigen doppelten Einträgen in der trakt.tv und/oder MrMC-Datenbank führen. Willst du fortfahren?"
+
+msgctxt "#36639"
+msgid "This setting will trigger push or pull trakt action after Library Scan has been completed."
+msgstr "Diese Einstellung löst die Push- oder Pull-Trakt-Aktion aus, nachdem der Bibliotheks-Scan abgeschlossen ist."
+
+msgctxt "#36641"
+msgid "Push watched status"
+msgstr "Push gesehen Status"
+
+msgctxt "#36642"
+msgid "Pull watched status"
+msgstr "Pull gesehen Status"
+
 msgctxt "#36900"
 msgid "movie"
 msgstr "Film"
@@ -13959,7 +14100,7 @@ msgstr "Soll die Wiedergabe auf dem Remote-Gerät angehalten werden?"
 
 msgctxt "#37024"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC3), this allows multichannel audio such as AAC 5.1 or FLAC 5.1 to be listened to in 5.1 surround sound. Note: Not recommended on Pi as this requires a lot of CPU."
-msgstr "Diese Option wählen, wenn der Audio-Ausgang Mehrkanal-Ton nur als Dolby Digital 5.1 (AC3) unterstützt. Dies ermöglicht, Mehrkanalton, wie AAC5.1 oder FLAC5.1, in 5.1 Surround-Sound zu hören. Hinweis: Nicht für den Raspberry Pi empfohlen, da dies viel Rechenleistung benötigt."
+msgstr "Wählen Sie diese Option, wenn die Audio-Ausgang-Verbindung nur Mehrkanal-Audio als Dolby Digital 5.1 (AC3) unterstützt, so dass Mehrkanal-Audiosignale wie AAC 5.1 oder FLAC 5.1 im 5.1-Surround-Sound gehört werden können. Hinweis: Nicht auf Pi empfohlen, da dies viel CPU benötigt."
 
 msgctxt "#37025"
 msgid "Configure audio encoder settings such as quality and compression level"
@@ -13968,6 +14109,10 @@ msgstr "Konfiguration von Audio-Encoder-Einstellungen, wie beispielsweise Qualit
 msgctxt "#37026"
 msgid "Auto"
 msgstr "Automatisch"
+
+msgctxt "#37027"
+msgid "1080"
+msgstr "1080"
 
 msgctxt "#37028"
 msgid "720"
@@ -14031,7 +14176,7 @@ msgstr "Legt die Schrittweite für die Überspringen-Knöpfe fest. Wenn mehrere 
 
 msgctxt "#37043"
 msgid "Defines the time to wait for subsequent key presses before performing the skip. Only applies when using smart skipping (when using more than one skip step for a direction)."
-msgstr "Legt die Zeit fest, die auf weitere Tastendrücke gewartet wird, before ein Sprung ausgelöst wird. Hat nur eine Bedeutung, wenn Smart-Skipping verwendet wird (Verwendung von mehr als einem Überspring-Schritt für eine Richtung)."
+msgstr "Legt die Zeit fest, die auf weitere Tastendrücke gewartet wird, bevor ein Sprung ausgelöst wird. Hat nur eine Bedeutung, wenn Smart-Skipping verwendet wird (Verwendung von mehr als einem Überspring-Schritt für eine Richtung)."
 
 msgctxt "#37044"
 msgid "Extract chapter thumbnails"
@@ -14040,6 +14185,34 @@ msgstr "Kapitelvorschaubilder extrahieren"
 msgctxt "#37045"
 msgid "Extract chapter thumbnails for presentation in the chapters / bookmarks dialogue. This might increase CPU load."
 msgstr "Kapitelvorschaubilder zur Darstellung im Kapitel-/Lesenzeichendialog extrahieren. Dies kann  eine höhere CPU-Last zur Folge haben."
+
+msgctxt "#37046"
+msgid "Boost center channel when downmixing"
+msgstr "Center Kanal steigern beim Downmixing"
+
+msgctxt "#37047"
+msgid "Increase this value to make the dialogue louder compared to background sounds when downmixing multichannel audio"
+msgstr "Erhöhe diesen Wert, um den Dialog lauter im Vergleich zu Hintergrundgeräuschen beim Downmixing von Mehrkanal-Audio zu machen"
+
+msgctxt "#37048"
+msgid "%i dB"
+msgstr "%i dB"
+
+msgctxt "#37049"
+msgid "Remove dangling thumbnails."
+msgstr "baumelnde Vorschaubilder entfernen"
+
+msgctxt "#37050"
+msgid "Local server only"
+msgstr "Nur lokaler Server"
+
+msgctxt "#37051"
+msgid "All servers"
+msgstr "Alle Server"
+
+msgctxt "#37053"
+msgid "Only selected Plex servers will be displayed in Home Shelf, recently added and in progress"
+msgstr "Nur ausgewählte Plex-Server werden im Home Shelf angezeigt, zuletzt hinzugefügt und in Bearbeitung"
 
 msgctxt "#38010"
 msgid "GPU accelerated"
@@ -14092,6 +14265,22 @@ msgstr "Kein Rating"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Bewerten"
+
+msgctxt "#38110"
+msgid "Support MVC video (full frame 3D)"
+msgstr "Unterstützt MVC Video (Vollbild 3D)"
+
+msgctxt "#38111"
+msgid "This option decodes frames for both eyes of MVC video. Disabling may improve performance if you don't require 3D"
+msgstr "Diese Option decodiert Bilder für beide Augen des MVC-Videos. Deaktivieren kann die Leistung verbessern, wenn Sie kein 3D benötigen"
+
+msgctxt "#38112"
+msgid "Use Full HD HDMI modes for 3D"
+msgstr "Verwenden Sie Full HD HDMI-Modi für 3D"
+
+msgctxt "#38113"
+msgid "This option uses frame-packing to output full resolution for 3D through HDMI"
+msgstr "Diese Option verwendet Frame-Packing, um die volle Auflösung für 3D über HDMI auszugeben"
 
 msgctxt "#6"
 msgid "Kodi SVN"
@@ -14152,3 +14341,59 @@ msgstr "Hardware-Videodekodierung mit Amlogic-Dekoder aktivieren."
 msgctxt "#37027"
 msgid "540"
 msgstr "540"
+
+msgctxt "#4"
+msgid "TV-Guide"
+msgstr "Fernsehprogramm"
+
+msgctxt "#120"
+msgid "Confirm file copy"
+msgstr "Datei kopieren bestätigen"
+
+msgctxt "#121"
+msgid "Confirm file move"
+msgstr "Datei verschieben bestätigen"
+
+msgctxt "#123"
+msgid "Copy these files?"
+msgstr "Diese Dateien kopieren?"
+
+msgctxt "#124"
+msgid "Move these files?"
+msgstr "Diese Dateien verschieben?"
+
+msgctxt "#125"
+msgid "Delete these files? - Deleting files cannot be undone!"
+msgstr "Diese Dateien löschen? - Löschen von Dateien kann nicht rückgängig gemacht werden!"
+
+msgctxt "#138"
+msgid "System Information"
+msgstr "System Information"
+
+msgctxt "#896"
+msgid "You are currently using Lite version of MrMC,"
+msgstr "Sie verwenden derzeit die Lite-Version von MrMC,"
+
+msgctxt "#897"
+msgid "Your list has been trimmed down from %i items to %i,"
+msgstr "Ihre Liste wurde von %i Objekte auf %i gekürzt"
+
+msgctxt "#898"
+msgid "please consider upgrading to full version on %s store."
+msgstr "Bitte erwägen Sie das Upgrade auf die Vollversion im %s Store."
+
+msgctxt "#25013"
+msgid "Commercial"
+msgstr "Werbesendung"
+
+msgctxt "#25014"
+msgid "Auto-skip off"
+msgstr "Auto-überspringen aus"
+
+msgctxt "#25015"
+msgid "Auto-skip on"
+msgstr "Auto-überspringen an"
+
+msgctxt "#681"
+msgid "Recently Added"
+msgstr "Kürzlich hinzugefügt"
