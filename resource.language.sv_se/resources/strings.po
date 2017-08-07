@@ -1831,7 +1831,7 @@ msgstr "Totalt ljudutrymme"
 
 msgctxt "#495"
 msgid "Upscale videos to GUI resolution"
-msgstr "Skala upp videor till GUI-upplösning"
+msgstr "Skala upp videor till gränssnittsupplösning"
 
 msgctxt "#496"
 msgid "Calibration"
@@ -11971,7 +11971,7 @@ msgstr "7.1"
 
 msgctxt "#34111"
 msgid "Select the behaviour when no sound is required for either playback or GUI sounds.[CR][Always] Continuous inaudible signal is output, this keeps the receiving audio device alive for any new sounds, however this might also block sound from other applications.[CR][1-10 Minutes] Same as [Always] except that after the selected period of time audio enters a suspended state.[CR][Off] Audio output enters a suspended state. Note: Sounds can be missed if audio enters suspended state."
-msgstr "Ange tillvägagångssätt när inget ljud spelas under uppspelning eller GUI-händelser.[CR][Alltid] - En kontinuerlig tyst ljudsignal spelas upp, denna håller ljudenheten aktiv för nya ljud, men kan förhindra ljud från andra applikationer.[CR][1-10 minuter] - Som [Alltid], med skillnaden att efter angiven tidsperiod kommer ljudet att sättas i vänteläge.[CR][Av] - ljudet sätts i vänteläge. Notera att ljudhändelser kan utebli om ljudet sätts i vänteläge."
+msgstr "Ange tillvägagångssätt när inget ljud spelas under uppspelning eller gränssnittshändelser.[CR][Alltid] - En kontinuerlig tyst ljudsignal spelas upp, denna håller ljudenheten aktiv för nya ljud, men kan förhindra ljud från andra applikationer.[CR][1-10 minuter] - Som [Alltid], med skillnaden att efter angiven tidsperiod kommer ljudet att sättas i vänteläge.[CR][Av] - ljudet sätts i vänteläge. Notera att ljudhändelser kan utebli om ljudet sätts i vänteläge."
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -13605,6 +13605,10 @@ msgctxt "#36536"
 msgid "Invert stereoscopic 3D mode (flip eyes)"
 msgstr "Invertera stereoskopiskt 3D-läge (flip eyes)"
 
+msgctxt "#36538"
+msgid "[Enabled] Switch GUI (and some TVs) back to 2D mode, between videos in a playlist or when playback ended.[CR][Disabled] GUI and TV will stay in stereoscopic 3D mode. For video playlists with mixed stereoscopic 3D and 2D content, then the GUI will also stay in stereoscopic 3D mode even when a non-stereoscopic 2D video is playing."
+msgstr "[Aktiverad] Ändra gränssnitt (och vissa TV-apparater) tillbaka till 2D-läge mellan videor i en spellista eller när uppspelningen avslutas.[CR]\n[Avaktiverad] Gränssnittet och TV:n kommer vara kvar i stereoskopiskt 3D-läge. För videospellistor med blandat 2D- och 3D-material kommer gränssnittet stanna kvar i stereoskopiskt 3D-läge även om en icke-stereoskopisk 2D-video spelas."
+
 msgctxt "#36539"
 msgid "Changes the stereoscopic 3D mode of the user interface."
 msgstr "Ändrar det stereoskopiska 3D-läget i användargränssnittet."
@@ -13647,7 +13651,11 @@ msgstr "Begränsar upplösningen av gränssnittet för att spara minne. Påverka
 
 msgctxt "#36550"
 msgid "Stereoscopic 3D effect strength"
-msgstr "Styrka för Stereoskopisk 3D-effekt"
+msgstr "Styrka för stereoskopisk 3D-effekt"
+
+msgctxt "#36551"
+msgid "Defines the strength of the stereoscopic 3D effect in the GUI. This is done by controlling the depth of perception within the GUI, so the higher the value, the more elements will pop out of the screen. [Zero] Disables the stereoscopic 3D effect of the GUI.[CR]For a good visual experience, the value should be higher for small screens and lower for large screens. Note: this is not supported by all skins."
+msgstr "Definierar styrkan av den stereoskopiska 3D-effekten i gränssnittet. Detta sker genom att justera perspektivdjupet i gränssnittet. Ju högre värde desto fler objekt kommer placeras utanför skärmen. [0] för att avaktivera den stereoskopiska 3D-effekten i gränssnittet.\n[CR]För att ge en bra visuell upplevelse bör värdet ställas högre för mindre skärmar och lägre för större skärmar. Notera att detta inte stöds av alla skal."
 
 msgctxt "#36600"
 msgid "This category contains the settings for how the music library is handled."
@@ -13659,11 +13667,155 @@ msgstr "Denna kategori innehåller inställningar för hur spellistor för musik
 
 msgctxt "#36602"
 msgid "This category contains the settings for how the AirPlay service is handled."
-msgstr "Denna kategori innehåller inställningar för hur AirPlay service hanteras."
+msgstr "Denna kategori innehåller inställningar för hur AirPlay-tjänsten hanteras."
 
 msgctxt "#36603"
 msgid "This category contains the settings for how video output is handled."
 msgstr "Denna kategori innehåller inställningar för hur videouppspelning hanteras."
+
+msgctxt "#36604"
+msgid "Sort library items by date added"
+msgstr "Sortera biblioteksobjekt efter datum"
+
+msgctxt "#36605"
+msgid "It will sort library items by date added (current date, modified time or creation time)"
+msgstr "Sorterar biblioteksobjekt efter datum (nuvarande datum, ändringstid eller skapelsetid) "
+
+msgctxt "#36606"
+msgid "Current date/time"
+msgstr "Nuvarande datum/tid"
+
+msgctxt "#36607"
+msgid "File modify time"
+msgstr "Filändringstid"
+
+msgctxt "#36608"
+msgid "File change time"
+msgstr "Filskapningstid"
+
+msgctxt "#36609"
+msgid "Timeout in seconds"
+msgstr "Timeout i sekunder"
+
+msgctxt "#36610"
+msgid "Timeout in seconds for libcurl (http/ftp) connections"
+msgstr "Timeout i sekunder för libcurl (http/ftp) anslutningar"
+
+msgctxt "#36611"
+msgid "Connection lowspeed time"
+msgstr "Långsam anslutning-tid"
+
+msgctxt "#36612"
+msgid "Time in seconds for libcurl to consider a connection lowspeed"
+msgstr "Tid i sekunder innan libcurl anser att en anslutning är långsam"
+
+msgctxt "#36613"
+msgid "Amount of retries"
+msgstr "Antal försök"
+
+msgctxt "#36614"
+msgid "Amount of retries for certain failed libcurl operations (e.g. timeout)"
+msgstr "Antal försök för vissa misslyckade libcurl-operationer (t.ex. timeout)"
+
+msgctxt "#36615"
+msgid "Disable ipv6"
+msgstr "Avaktivera IPv6"
+
+msgctxt "#36616"
+msgid "Certain hardware/OS combinations have trouble with ipv6"
+msgstr "Vissa kombinationer av hårdvara och operativsystem har problem med IPv6"
+
+msgctxt "#36617"
+msgid "Buffer size (MB)"
+msgstr "Bufferstorlek (MB)"
+
+msgctxt "#36618"
+msgid "Number of MB used for buffering streams in memory, When set to 0 the cache will be written to disk instead of RAM"
+msgstr "Antal MB av RAM-minnet som används för att buffra strömmar.\nOm det ställs till 0 kommer cachen skrivas till filsystemet istället för RAM-minnet"
+
+msgctxt "#36619"
+msgid "Buffer mode"
+msgstr "Bufferläge"
+
+msgctxt "#36620"
+msgid "Choose what to buffer(all internet filesystems, all filesystems, true internet filesystems)"
+msgstr "Välj vad du vill buffra (alla internetfilsystem, alla filsystem, sanna internetfilsystem)"
+
+msgctxt "#36621"
+msgid "Buffer all internet filesystems"
+msgstr "Buffra alla internetfilsystem"
+
+msgctxt "#36622"
+msgid "Buffer all filesystems"
+msgstr "Buffra alla filsystem"
+
+msgctxt "#36623"
+msgid "Only buffer true internet filesystems"
+msgstr "Buffra endast sanna internetnätverk"
+
+msgctxt "#36624"
+msgid "No buffer"
+msgstr "Ingen buffer"
+
+msgctxt "#36625"
+msgid "SMB stat"
+msgstr "SMB stat"
+
+msgctxt "#36626"
+msgid "Disable to speed up listings of large directories over SMB network"
+msgstr "Avaktivera för att snabba upp listningen av stora mappar om du använder SMB-nätverk."
+
+msgctxt "#36627"
+msgid "SMB timeout"
+msgstr "SMB-timeout"
+
+msgctxt "#36628"
+msgid "SMB timeout (in seconds)"
+msgstr "SMB-timeout (i sekunder)"
+
+msgctxt "#36629"
+msgid "Max readrate factor"
+msgstr "Maximal läshastighetsfaktor"
+
+msgctxt "#36630"
+msgid "This can help on bad connections to keep the cache filled. It will also greatly speed up buffering"
+msgstr "Det här kan hjälpa till att hålla bufferten fylld vid dålig uppkoppling. Det kommer även göra buffringen mycket snabbare."
+
+msgctxt "#36631"
+msgid "Allow hardware decoding of interlaced files."
+msgstr "Tillåt hårdvaruavkodning av interlacade filer."
+
+msgctxt "#36632"
+msgid "Timeout in seconds for MySQL connections"
+msgstr "Timeout i sekunder för anslutning till MySQL"
+
+msgctxt "#36633"
+msgid "Pull watched status from Trakt.tv server"
+msgstr "Hämta visningsstatus från trakt.tv-servern"
+
+msgctxt "#36634"
+msgid "Function to retreive watched status for items on Trakt.tv server, MySql and sqlite(internal MrMC database) only."
+msgstr "Funktion för att hämta visningsstatus för objekt på trakt.tv-servern. Endast för MySQL och sqlite (MrMC:s interna databas)."
+
+msgctxt "#36635"
+msgid "Push watched status to Trakt.tv server"
+msgstr "Skicka visningsstatus till trakt.tv-servern."
+
+msgctxt "#36637"
+msgid "This might cause some duplicate entries in trakt.tv and/or MrMC database. Do you want to proceed?"
+msgstr "Det här kan skapa dubbletter i trakt.tv- och/eller MrMC-databasen. Vill du fortsätta?"
+
+msgctxt "#36639"
+msgid "This setting will trigger push or pull trakt action after Library Scan has been completed."
+msgstr "Den här inställningen kommer att synka databasen med trakt efter att biblioteksgenomsökningen har slutförts."
+
+msgctxt "#36641"
+msgid "Push watched status"
+msgstr "Skicka status för visningar"
+
+msgctxt "#36642"
+msgid "Pull watched status"
+msgstr "Hämta status för visningar"
 
 msgctxt "#36900"
 msgid "movie"
@@ -13787,7 +13939,7 @@ msgstr "Bläddra i"
 
 msgctxt "#37016"
 msgid "Select this option if your receiver is capable of decoding Dolby Digital Plus (E-AC3) streams."
-msgstr "Välj detta alternativ om din mottagare kan avkoda Dolby Digital Plus (E-AC3) strömningar."
+msgstr "Välj detta alternativ om din mottagare kan avkoda Dolby Digital Plus (E-AC3) ljudströmmar."
 
 msgctxt "#37017"
 msgid "Dual audio output"
@@ -13803,7 +13955,7 @@ msgstr "Aktivera grafik med högre färgdjup"
 
 msgctxt "#37021"
 msgid "Set GUI resolution limit"
-msgstr "Ange gräns för GUI-upplösning"
+msgstr "Ange gräns för gränssnittsupplösning"
 
 msgctxt "#37022"
 msgid "UPnP player"
@@ -13815,15 +13967,19 @@ msgstr "Vill du stoppa uppspelningen på fjärrenheten?"
 
 msgctxt "#37024"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC3), this allows multichannel audio such as AAC 5.1 or FLAC 5.1 to be listened to in 5.1 surround sound. Note: Not recommended on Pi as this requires a lot of CPU."
-msgstr "Välj detta om din ljudutgång endast stödjer multikanalsljud som Dolby Digital 5.1 (AC3), detta tillåter multikanalsljud som t.ex. AAC5.1 eller FLAC5.1 att spelas upp i 5.1 surroundljud. Obs! Rekommenderas ej för Pi då detta använder mycket processorkraft."
+msgstr "Välj detta om din ljudutgång endast stödjer Dolby Digital 5.1 (AC3) som flerkanalsljud. Detta tillåter flerkanalsljud som t.ex AAC 5.1 eller FLAC 5.1 att spelas upp i 5.1-surroundljud. Obs! Rekommenderas ej för Pi då detta använder mycket processorkraft."
 
 msgctxt "#37025"
 msgid "Configure audio encoder settings such as quality and compression level"
-msgstr "Konfigurera inställningar för ljudomvandling, som ljudkvalité och komprimering"
+msgstr "Konfigurera inställningar för ljudomvandling, som ljudkvalitet och komprimering"
 
 msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
+
+msgctxt "#37027"
+msgid "1080"
+msgstr "1080"
 
 msgctxt "#37028"
 msgid "720"
@@ -13879,7 +14035,11 @@ msgstr "Föredra förvalda ljudströmmar"
 
 msgctxt "#37041"
 msgid "If enabled, audio streams that are flagged as default (and match the preferred language) are preferred over audio streams with higher quality (number of channels, codec, ...)."
-msgstr "Vid aktivering väljs ljudströmmar som är flaggade som standard (och matchar föredraget språk) framför ljuströmmar med högre ljudkvalitet (antal kanaler, codec, ...)"
+msgstr "Vid aktivering väljs ljudströmmar som är flaggade som standard (och matchar föredraget språk) framför ljuströmmar med högre ljudkvalitet (antal kanaler, codec, ...)."
+
+msgctxt "#37042"
+msgid "Defines which step sizes to use when pressing the skip buttons. If more steps are selected for a skip direction, these can be applied by subsequent presses on the skip button within the defined skip delay. Forward (positive) and backward (negative) steps can be defined independently."
+msgstr "Anger storlekarna på stegen som skall användas vid tryck på hoppknapparna. Om fler än ett steg anges för en hoppriktning kan dessa användas genom att trycka flera gånger i rad på hoppknappen inom det angivna hoppfördröjningsintervallet. Framåt (positivt värde) och bakåt (negativt värde) kan anges oberoende av varandra."
 
 msgctxt "#37043"
 msgid "Defines the time to wait for subsequent key presses before performing the skip. Only applies when using smart skipping (when using more than one skip step for a direction)."
@@ -13891,7 +14051,39 @@ msgstr "Hämta kapitelminiatyrer"
 
 msgctxt "#37045"
 msgid "Extract chapter thumbnails for presentation in the chapters / bookmarks dialogue. This might increase CPU load."
-msgstr "Hämta kapitel miniatyrer för presentation i kapitel / bokmärkes dialogen. Detta kan öka processor belastningen."
+msgstr "Hämta kapitelminiatyrer för presentation i kapitel / bokmärkesdialogen. Detta kan öka processorbelastningen."
+
+msgctxt "#37046"
+msgid "Boost center channel when downmixing"
+msgstr "Höj centerkanalen vid nedmixning"
+
+msgctxt "#37047"
+msgid "Increase this value to make the dialogue louder compared to background sounds when downmixing multichannel audio"
+msgstr "Öka det här värdet för att göra dialogen högre jämfört med bakgrundsljud vid nedmixning av flerkanalsljudspår"
+
+msgctxt "#37048"
+msgid "%i dB"
+msgstr "%i dB"
+
+msgctxt "#37049"
+msgid "Remove dangling thumbnails."
+msgstr "Ta bort hängande miniatyrer."
+
+msgctxt "#37050"
+msgid "Local server only"
+msgstr "Endast lokala servrar"
+
+msgctxt "#37051"
+msgid "All servers"
+msgstr "Alla servrar"
+
+msgctxt "#37052"
+msgid "Limit Home Shelf to selected Plex servers"
+msgstr "Begränsa hemhyllan till valda Plex-servrar"
+
+msgctxt "#37053"
+msgid "Only selected Plex servers will be displayed in Home Shelf, recently added and in progress"
+msgstr "Endast valda Plex-servrar kommer att visas i hemhyllan, senast tillagda och pågående"
 
 msgctxt "#38010"
 msgid "GPU accelerated"
@@ -13907,11 +14099,11 @@ msgstr "Visa \"Allt\" meny i katalogen. Till exempel \"Alla album\" eller \"Alla
 
 msgctxt "#38013"
 msgid "Limit GUI updates during playback"
-msgstr "Limitera GUI uppdateringar vid uppspelning"
+msgstr "Begränsa gränssnittsuppdateringar under uppspelning"
 
 msgctxt "#38014"
 msgid "Limits the speed (fps) used to update the GUI while playing videos. This can reduce CPU load and fix playback issues while the GUI is shown."
-msgstr "Limitera hastigheten (fps) användt för att uppdatera GUIn vid uppspelning av videor. Detta kan redusera processor belastning och fixa uppspelnings problem när GUIn visas."
+msgstr "Begränsar hastigheten (fps) som används för att uppdatera gränssnittet under uppspelning av videor. Detta kan reducera processoranvändningen och fixa uppspelningsproblem när gränssnittet visas."
 
 msgctxt "#38015"
 msgid "Unlimited"
@@ -13944,6 +14136,22 @@ msgstr "Inget betyg"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Ange mitt betyg"
+
+msgctxt "#38110"
+msgid "Support MVC video (full frame 3D)"
+msgstr "Stöd MVC-video (3D med fullt antal bildrutor)"
+
+msgctxt "#38111"
+msgid "This option decodes frames for both eyes of MVC video. Disabling may improve performance if you don't require 3D"
+msgstr "Det här valet avkodar bildrutor från MVC-video för bägge ögonen. Att avaktivera kan förbättra prestanda om du inte kräver 3D"
+
+msgctxt "#38112"
+msgid "Use Full HD HDMI modes for 3D"
+msgstr "Använd full-HD HDMI-läge för 3D"
+
+msgctxt "#38113"
+msgid "This option uses frame-packing to output full resolution for 3D through HDMI"
+msgstr "Det här valet använder bildruteförpackning för att skicka 3D-video i full upplösning genom HDMI"
 
 msgctxt "#6"
 msgid "Kodi SVN"
@@ -14004,3 +14212,71 @@ msgstr "Aktivera AMLogic-hårdvaruavkodning av video."
 msgctxt "#37027"
 msgid "540"
 msgstr "540"
+
+msgctxt "#4"
+msgid "TV-Guide"
+msgstr "TV-Guide"
+
+msgctxt "#120"
+msgid "Confirm file copy"
+msgstr "Bekräfta kopiering av filer"
+
+msgctxt "#121"
+msgid "Confirm file move"
+msgstr "Bekräfta flytt av filer"
+
+msgctxt "#123"
+msgid "Copy these files?"
+msgstr "Kopiera valda filer?"
+
+msgctxt "#124"
+msgid "Move these files?"
+msgstr "Flytta valda filer?"
+
+msgctxt "#125"
+msgid "Delete these files? - Deleting files cannot be undone!"
+msgstr "Radera valda filer? –\nAtt radera filer kan inte ångras!"
+
+msgctxt "#138"
+msgid "System Information"
+msgstr "Systeminformation"
+
+msgctxt "#896"
+msgid "You are currently using Lite version of MrMC,"
+msgstr "Du använder för närvarande Liteversionen av MrMC,"
+
+msgctxt "#897"
+msgid "Your list has been trimmed down from %i items to %i,"
+msgstr "Din lista har blivit nedkortad från %i till %i artiklar,"
+
+msgctxt "#898"
+msgid "please consider upgrading to full version on %s store."
+msgstr "vänligen överväg att uppgradera till fullversionen på %s-store."
+
+msgctxt "#25013"
+msgid "Commercial"
+msgstr "Kommersiellt"
+
+msgctxt "#25014"
+msgid "Auto-skip off"
+msgstr "Auto-hoppa av"
+
+msgctxt "#25015"
+msgid "Auto-skip on"
+msgstr "Auto-hoppa på"
+
+msgctxt "#681"
+msgid "Recently Added"
+msgstr "Nyligen tillagt"
+
+msgctxt "#35505"
+msgid "Enable dark theme"
+msgstr "Aktivera mörkt tema"
+
+msgctxt "#35506"
+msgid "Main menu options"
+msgstr "Huvudmenyalternativ"
+
+msgctxt "#35507"
+msgid "TV Menu goes to TV Guide"
+msgstr "TV-meny öppnar TV-guide"
