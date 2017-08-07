@@ -13846,6 +13846,10 @@ msgctxt "#36610"
 msgid "Timeout in seconds for libcurl (http/ftp) connections"
 msgstr "Timeout in Sekunden für libcurl (http/ftp) Verbindungen"
 
+msgctxt "#36612"
+msgid "Time in seconds for libcurl to consider a connection lowspeed"
+msgstr "Zeit in Sekunden für libcurl, um eine langsame Verbindungen zu berücksichtigen"
+
 msgctxt "#36613"
 msgid "Amount of retries"
 msgstr "Anzahl der Wiederholungen"
@@ -14397,3 +14401,11 @@ msgstr "Auto-überspringen an"
 msgctxt "#681"
 msgid "Recently Added"
 msgstr "Kürzlich hinzugefügt"
+
+msgctxt "#35505"
+msgid "Enable dark theme"
+msgstr "Dark Theme aktivieren"
+
+msgctxt "#35506"
+msgid "Main menu options"
+msgstr "Hauptmenü-Optionen"
