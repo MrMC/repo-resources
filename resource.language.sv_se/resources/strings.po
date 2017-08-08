@@ -463,7 +463,7 @@ msgstr "Temperaturer:"
 
 msgctxt "#140"
 msgid "CPU:"
-msgstr "CPU:"
+msgstr "Processor:"
 
 msgctxt "#141"
 msgid "GPU:"
@@ -1123,7 +1123,7 @@ msgstr "Originalströmmens språk"
 
 msgctxt "#309"
 msgid "User interface language"
-msgstr "Använd gränssnittets språk"
+msgstr "Använd användargränssnittets språk"
 
 msgctxt "#310"
 msgid "Keyboard layouts"
@@ -1831,7 +1831,7 @@ msgstr "Totalt ljudutrymme"
 
 msgctxt "#495"
 msgid "Upscale videos to GUI resolution"
-msgstr "Skala upp videor till gränssnittsupplösning"
+msgstr "Skala upp videor till användargränssnittsupplösning"
 
 msgctxt "#496"
 msgid "Calibration"
@@ -2399,7 +2399,7 @@ msgstr "Uppdatera bibliotek"
 
 msgctxt "#654"
 msgid "Show debug information"
-msgstr "Visa debuginformation"
+msgstr "Visa felsökningsinformation"
 
 msgctxt "#655"
 msgid "Browse for executable"
@@ -3775,7 +3775,7 @@ msgstr "Inställningar - Bildskärm"
 
 msgctxt "#10010"
 msgid "Settings - Appearance - GUI calibration"
-msgstr "Inställningar - Utseende - Kalibrering av gränssnittet"
+msgstr "Inställningar - Utseende - Kalibrering av användargränssnittet"
 
 msgctxt "#10011"
 msgid "Settings - Videos - Screen calibration"
@@ -4703,7 +4703,7 @@ msgstr "Hårdvara:"
 
 msgctxt "#13271"
 msgid "CPU usage:"
-msgstr "CPU-användning:"
+msgstr "Processoranvändning:"
 
 msgctxt "#13274"
 msgid "Connected, but no DNS is available."
@@ -4743,7 +4743,7 @@ msgstr "Operativsystem:"
 
 msgctxt "#13284"
 msgid "CPU speed:"
-msgstr "CPU-hastighet:"
+msgstr "Processorhastighet:"
 
 msgctxt "#13286"
 msgid "Video encoder:"
@@ -5263,7 +5263,7 @@ msgstr "Använd MPEG-2 VDPAU"
 
 msgctxt "#13442"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Older Radeon Cards tend to segfault with this enabled."
-msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering av MPEG-(1/2) kodekar. Ifall den är inaktiverad kommer CPU:n att användas istället. Äldre Radeon-kort har en tendens att ge upphov till fel vid aktivering."
+msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering av MPEG-(1/2) kodekar. Ifall den är inaktiverad kommer processorn att användas istället. Äldre Radeon-kort har en tendens att ge upphov till fel vid aktivering."
 
 msgctxt "#13443"
 msgid "Use MPEG-4 VDPAU"
@@ -5271,7 +5271,7 @@ msgstr "Använd MPEG-4 VDPAU"
 
 msgctxt "#13444"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead. Some ION hardware has problems with this being enabled by default."
-msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering till MPEG-4 kodeken. Ifall den är inaktiverad kommer CPU:n att användas istället. Viss ION-hårdvara kan skapa problem vid aktivering."
+msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering till MPEG-4 kodeken. Ifall den är inaktiverad kommer processorn att användas istället. Viss ION-hårdvara kan skapa problem vid aktivering."
 
 msgctxt "#13445"
 msgid "Use VC-1 VDPAU"
@@ -5279,7 +5279,7 @@ msgstr "Använd VC-1 VDPAU"
 
 msgctxt "#13446"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. AMD hardware with VDPAU can't decode VC-1 Simple."
-msgstr "Aktivera för att använda hårdvaruacceleration för kodekar baserade på VC-1. Om avaktiverad kommer CPU:n att användas istället. AMD-hårdvara med VDPAU kan inte avkoda VC-1 Simple."
+msgstr "Aktivera för att använda hårdvaruacceleration för kodekar baserade på VC-1. Ifall den är inaktiverad kommer processorn att användas istället. AMD-hårdvara med VDPAU kan inte avkoda VC-1 Simple."
 
 msgctxt "#13447"
 msgid "Use MPEG-2 VAAPI"
@@ -5287,7 +5287,7 @@ msgstr "Använd MPEG-2 VAAPI"
 
 msgctxt "#13448"
 msgid "Enable this option to use hardware acceleration for MPEG-(1 / 2) codecs. If disabled the CPU will be used instead. Some MPEG-2 videos might have green artifacts."
-msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering till MPEG-(1 / 2) kodekar. Ifall den är inaktiverad kommer CPU:n att användas istället. Vissa MPEG-2 filmer kan uppvisa gröna artefakter."
+msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering till MPEG-(1 / 2) kodekar. Ifall den är inaktiverad kommer processorn att användas istället. Vissa MPEG-2 filmer kan uppvisa gröna artefakter."
 
 msgctxt "#13449"
 msgid "Use MPEG-4 VAAPI"
@@ -5295,7 +5295,7 @@ msgstr "Använd MPEG-4 VAAPI"
 
 msgctxt "#13450"
 msgid "Enable this option to use hardware acceleration for the MPEG-4 codec. If disabled the CPU will be used instead."
-msgstr "Aktivera det här alternativet för att använda hårdvarue-accelerering till MPEG-4 kodek. Ifall den är inaktiverad kommer CPU:n att användas istället."
+msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering för MPEG-4 kodek. Ifall den är inaktiverad kommer processorn att användas istället."
 
 msgctxt "#13451"
 msgid "Use VC-1 VAAPI"
@@ -5303,7 +5303,7 @@ msgstr "Använd VC-1 VAAPI"
 
 msgctxt "#13452"
 msgid "Enable this option to use hardware acceleration for VC-1 based codecs. If disabled the CPU will be used instead. Especially VC-1 interlaced fails hard on Intel hardware."
-msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering för kodekar baserade på VC-1. Om avaktiverad kommer CPU:n att användas istället. Särskilt VC-1 Interlaced kraschar allvarligt på Intel-hårdvara."
+msgstr "Aktivera det här alternativet för att använda hårdvaruaccelerering för kodekar baserade på VC-1. Ifall den är  inaktiverad kommer processorn användas istället. Framförallt sammanflätad VC-1-video kraschar allvarligt på Intel-hårdvara."
 
 msgctxt "#13457"
 msgid "Prefer VAAPI render method"
@@ -5316,6 +5316,10 @@ msgstr "Tillåt hårdvaruacceleration - OMXPlayer"
 msgctxt "#13459"
 msgid "Use OMXPlayer for decoding of video files."
 msgstr "Använd OMXPlayer vid kodning av videofiler."
+
+msgctxt "#13460"
+msgid "Allow interlaced content"
+msgstr "Tillåt sammanflätat material"
 
 msgctxt "#13505"
 msgid "Resample quality"
@@ -5843,11 +5847,11 @@ msgstr "Händelser"
 
 msgctxt "#14112"
 msgid "Enable event logging"
-msgstr "Aktivera debugloggning"
+msgstr "Aktivera felsökningsloggning för händelser"
 
 msgctxt "#14113"
 msgid "Enable notification event logging"
-msgstr "Aktivera aviseringsbar debugloggning"
+msgstr "Aktivera felsökningsloggning för notifieringshändelser"
 
 msgctxt "#14114"
 msgid "Show event log"
@@ -6099,7 +6103,7 @@ msgstr "Byt resampler"
 
 msgctxt "#15081"
 msgid "Process chain (with CPU usage)"
-msgstr "Processkedja (med CPU-användning)"
+msgstr "Processkedja (med processoranvändning)"
 
 msgctxt "#15082"
 msgid "Resampling to %i Hz"
@@ -6143,7 +6147,7 @@ msgstr "Positioner"
 
 msgctxt "#15092"
 msgid "CPU usage for DSP"
-msgstr "CPU-användning för DSP"
+msgstr "Processoranvändning för DSP"
 
 msgctxt "#15100"
 msgid "Library"
@@ -6179,7 +6183,7 @@ msgstr "Buffrar..."
 
 msgctxt "#15108"
 msgid "GUI sounds"
-msgstr "Ljud för gränssnittet"
+msgstr "Ljud för användargränssnittet"
 
 msgctxt "#15109"
 msgid "Skin default"
@@ -8847,7 +8851,7 @@ msgstr "Anpassad"
 
 msgctxt "#20191"
 msgid "Enable debug logging"
-msgstr "Aktivera debugloggning"
+msgstr "Aktivera felsökningsloggning"
 
 msgctxt "#20192"
 msgid "Fetch additional information during updates"
@@ -8912,6 +8916,10 @@ msgstr "Androidfoton"
 msgctxt "#20244"
 msgid "Android apps"
 msgstr "Androidappar"
+
+msgctxt "#20246"
+msgid "Enable debug logging of memory/cpu usage"
+msgstr "Aktivera felsökningsloggning av minne/"
 
 msgctxt "#20250"
 msgid "Party on! (videos)"
@@ -9691,7 +9699,7 @@ msgstr "Aktivera mus- och pekskärmsstöd"
 
 msgctxt "#21370"
 msgid "Play GUI sounds during media playback"
-msgstr "Spela gränssnittsljud vid mediauppspelning"
+msgstr "Spela användargränssnittsljud under mediauppspelning"
 
 msgctxt "#21371"
 msgid "Thumbnail"
@@ -10487,7 +10495,7 @@ msgstr "GPU-temperatur:"
 
 msgctxt "#22011"
 msgid "CPU temperature:"
-msgstr "CPU-temperatur:"
+msgstr "Processortemperatur:"
 
 msgctxt "#22012"
 msgid "Total memory"
@@ -10631,7 +10639,7 @@ msgstr "Mediakällor"
 
 msgctxt "#24006"
 msgid "GUI sounds"
-msgstr "Ljud för gränssnittet"
+msgstr "Ljud för användargränssnittet"
 
 msgctxt "#24007"
 msgid "Movie information"
@@ -10707,7 +10715,7 @@ msgstr "Tillägg inaktiverat"
 
 msgctxt "#24025"
 msgid "Context menus"
-msgstr "Kontextmenyer"
+msgstr "Sammanhangsmenyer"
 
 msgctxt "#24026"
 msgid "Languages"
@@ -11119,7 +11127,7 @@ msgstr "Aktivera bearbetning av textning"
 
 msgctxt "#24131"
 msgid "Enable to parse for CC in video stream. Puts slightly more load on the CPU"
-msgstr "Aktivera för att genomsöka videoströmmar efter textning. Ger marginellt ökad CPU-användning"
+msgstr "Aktivera för att genomsöka videoströmmar efter textning. Ger marginellt ökad processoranvändning"
 
 msgctxt "#24132"
 msgid "Would you like to switch to this language?"
@@ -11971,7 +11979,7 @@ msgstr "7.1"
 
 msgctxt "#34111"
 msgid "Select the behaviour when no sound is required for either playback or GUI sounds.[CR][Always] Continuous inaudible signal is output, this keeps the receiving audio device alive for any new sounds, however this might also block sound from other applications.[CR][1-10 Minutes] Same as [Always] except that after the selected period of time audio enters a suspended state.[CR][Off] Audio output enters a suspended state. Note: Sounds can be missed if audio enters suspended state."
-msgstr "Ange tillvägagångssätt när inget ljud spelas under uppspelning eller gränssnittshändelser.[CR][Alltid] - En kontinuerlig tyst ljudsignal spelas upp, denna håller ljudenheten aktiv för nya ljud, men kan förhindra ljud från andra applikationer.[CR][1-10 minuter] - Som [Alltid], med skillnaden att efter angiven tidsperiod kommer ljudet att sättas i vänteläge.[CR][Av] - ljudet sätts i vänteläge. Notera att ljudhändelser kan utebli om ljudet sätts i vänteläge."
+msgstr "Ange tillvägagångssätt när inget ljud spelas under uppspelning eller användargränssnittshändelser.[CR][Alltid] - En kontinuerlig tyst ljudsignal spelas upp, denna håller ljudenheten aktiv för nya ljud, men kan förhindra ljud från andra applikationer.[CR][1-10 minuter] - Som [Alltid], med skillnaden att efter angiven tidsperiod kommer ljudet att sättas i vänteläge.[CR][Av] - ljudet sätts i vänteläge. Notera att ljudhändelser kan utebli om ljudet sätts i vänteläge."
 
 msgctxt "#34120"
 msgid "Play GUI sounds"
@@ -12067,7 +12075,7 @@ msgstr "1-fingerklick för enter"
 
 msgctxt "#34408"
 msgid "Two finger single tap or one finger long press for contextmenu"
-msgstr "2-fingerklick eller långtryck med ett finger för undermeny"
+msgstr "Tvåfingerklicka eller långtryck med ett finger för att visa sammanhangsmenyn"
 
 msgctxt "#35000"
 msgid "Peripherals"
@@ -12179,7 +12187,7 @@ msgstr "Ställ enheterna i standbyläge när skärmsläckaren aktiveras"
 
 msgctxt "#36010"
 msgid "Wake devices when deactivating the screensaver"
-msgstr "Väck enheter när skärmsläckaren avaktiveras"
+msgstr "Väck enheter när skärmsläckaren inaktiveras"
 
 msgctxt "#36011"
 msgid "Couldn't detect the CEC com port. Please configure it manually."
@@ -12315,7 +12323,7 @@ msgstr "Denna kategori innehåller alla skalrelaterade inställningar."
 
 msgctxt "#36103"
 msgid "Select the skin for the user interface. This will define the look and feel of the application."
-msgstr "Väl skal för gränssnittet. Detta kommer att ändra hur applikationen ser ut."
+msgstr "Väl skal för användargränssnittet. Detta kommer att ändra hur applikationen ser ut."
 
 msgctxt "#36104"
 msgid "Select to change the skin specific settings. Which options are available for configuration depends on the features provided by the skin."
@@ -12335,7 +12343,7 @@ msgstr "Välj typsnitten som visas i användargränssnittet. Teckenuppsättninga
 
 msgctxt "#36108"
 msgid "Resize the view of the user interface."
-msgstr "Byt storlek på gränssnittets vy."
+msgstr "Byt storlek på användargränssnittet."
 
 msgctxt "#36109"
 msgid "Select the media window to display on startup."
@@ -12367,7 +12375,7 @@ msgstr "Välj format för temperatur, tid och datum. De tillgängliga alternativ
 
 msgctxt "#36116"
 msgid "Choose which character set is used for displaying text in the user interface."
-msgstr "Välj vilken teckenuppsättning som används för att visa text i gränssnittet."
+msgstr "Välj vilken teckenuppsättning som används för att visa text i användargränssnittet."
 
 msgctxt "#36117"
 msgid "Select country location."
@@ -12403,7 +12411,7 @@ msgstr "Ignorera ord vid sortering. Som exempel skulle \"The Simpsons\" sorteras
 
 msgctxt "#36125"
 msgid "Allow files to be deleted and renamed through the user interface, via the context menu, e.g. press \"C\" on a keyboard to bring up this menu."
-msgstr "Tillåt att ta bort och döpa om filer i användargränssnittet, via undertextmenyn. Klicka \"C\" för att få fram denna meny."
+msgstr "Tillåt att ta bort och döpa om filer i användargränssnittet, via t.ex. sammanhangsmenyn. Tryck på \"C\" på ett tangentbord för att få fram denna meny."
 
 msgctxt "#36126"
 msgid "Show the add source button in root sections of the user interface."
@@ -12463,7 +12471,7 @@ msgstr "Denna kategori innehåller inställningar för hur videobiblioteket hant
 
 msgctxt "#36140"
 msgid "Choose which temperature unit is used for displaying temperatures in the user interface."
-msgstr "Välj vilken temperaturenhet som ska användas för visning av temperaturer i gränssnittet."
+msgstr "Välj vilken temperaturenhet som ska användas för visning av temperaturer i användargränssnittet."
 
 msgctxt "#36141"
 msgid "Show plot information for unwatched media in the video library."
@@ -12471,7 +12479,7 @@ msgstr "Visa information om handling för media i videobiblioteket som inte har 
 
 msgctxt "#36142"
 msgid "Choose which speed unit is used for displaying speeds in the user interface."
-msgstr "Välj vilken enhet för hastighet som ska användas för visning av hastigheter i gränssnittet."
+msgstr "Välj vilken enhet för hastighet som ska användas för visning av hastigheter i användargränssnittet."
 
 msgctxt "#36143"
 msgid "Downloads thumbnails for actors from online databases when adding media to the library."
@@ -12575,11 +12583,11 @@ msgstr "Välj vilket tids-format som ska användas vid visning av tid i gränssn
 
 msgctxt "#36168"
 msgid "Choose whether to use 12 or 24-hour format for displaying the time in the user interface."
-msgstr "Välj 12 eller 24-timmars format vid visning av tid i gränssnittet."
+msgstr "Välj 12 eller 24-timmars format vid visning av tid i användargränssnittet."
 
 msgctxt "#36169"
 msgid "Select the quality of resampling for cases where the audio output needs to be at a different sampling rate from that used by the source.[CR][Low] Is fast and will have minimal impact on system resources such as the use of the CPU.[CR][Medium] & [High] Will use progressively more system resources."
-msgstr "Ange omsamplingskvalitet för de tillfällen då ljudet behöver vara av en annan kvalitet an vad originalljudet är. [Låg] är snabbt och har minimal inverkan på systemresurser som CPU-användning, [Medel] & [Hög] använder gradvis mer systemresurser."
+msgstr "Välj omsamplingskvalitet för de fall ljudet som matas ut behöver ha en annan samplingshastighet än originalljudet. [Låg] är snabbt och har minimal inverkan på systemresurser som processoranvändning, [Medel] & [Hög] använder gradvis mer systemresurser."
 
 msgctxt "#36170"
 msgid "Stretch the video up to the set percentage in order to minimise black bars."
@@ -12591,7 +12599,7 @@ msgstr "Välj den zoomnivå som videor i 4:3-format visas på bredbildsskärmar.
 
 msgctxt "#36173"
 msgid "Choose which short date format is used for displaying the date in the user interface."
-msgstr "Välj vilket datumformat som ska användas vid visning av datum i gränssnittet."
+msgstr "Välj vilket datumformat som ska användas vid visning av datum i användargränssnittet."
 
 msgctxt "#36174"
 msgid "Enable teletext when watching a live TV stream."
@@ -12759,7 +12767,7 @@ msgstr "Göm OSD-kontrollerna efter kanalbyte."
 
 msgctxt "#36215"
 msgid "Choose which long date format is used for displaying the date in the user interface."
-msgstr "Välj vilket datumformat som ska användas vid visning av datum i gränssnittet."
+msgstr "Välj vilket datumformat som ska användas vid visning av datum i användargränssnittet."
 
 msgctxt "#36216"
 msgid "Folder where channel icons are stored."
@@ -12779,7 +12787,7 @@ msgstr "Antal dagar att visa i guiden och importera data åt från backends"
 
 msgctxt "#36222"
 msgid "Don't import the guide data while playing TV to minimise CPU usage."
-msgstr "Importera inte guidedata under uppspelning för att minska CPU-användning."
+msgstr "Importera inte guidedata under uppspelning för att minska processoranvändning."
 
 msgctxt "#36223"
 msgid "By default, the guide data is cached in a local database to speed up importing on startup."
@@ -13223,7 +13231,7 @@ msgstr "Testmönster för kalibrering av visningsenheter."
 
 msgctxt "#36359"
 msgid "Use limited colour range (16-235) instead of full colour range (0-255). Limited range should be used if your display is a regular HDMI TV and doesn't have a PC or other mode to display full range colour, however if your display is a PC monitor then leave this disabled to get proper blacks."
-msgstr "Använd begränsad färgrymd (16-235) istället för full färgrymd (0-255). Begränsad färgrymd bör användas om din bildskärm är en vanlig HDMI-TV och inte har ett PC-läge eller annat läge för att återge full färgrymd, lämna denna avaktiverad om din bildskärm är en PC-monitor för att få korrekt svärta."
+msgstr "Använd begränsad färgrymd (16-235) istället för full färgrymd (0-255). Begränsad färgrymd bör användas om din bildskärm är en vanlig HDMI-TV och inte har ett PC-läge eller annat läge för att återge full färgrymd, lämna denna inaktiverad om din bildskärm är en PC-monitor för att få korrekt svärta."
 
 msgctxt "#36360"
 msgid "This category contains the settings for how audio output is handled."
@@ -13271,7 +13279,7 @@ msgstr "Välj enhet för uppspelning av de kodade ljudformat som är aktiverade 
 
 msgctxt "#36373"
 msgid "Configure how interface sounds are handled, such as menu navigation and important notifications."
-msgstr "Konfigurera hur gränssnittsljud hanteras, så som menynavigering och viktiga notifieringar. "
+msgstr "Konfigurera hur användargränssnittsljud hanteras, så som menynavigering och viktiga notifieringar. "
 
 msgctxt "#36374"
 msgid "This category contains the settings for how input devices are handled."
@@ -13287,11 +13295,11 @@ msgstr "Om aktiverad, kommer tangentbordspilarna flytta ditt val på det virtuel
 
 msgctxt "#36377"
 msgid "Use a mouse or touch screen device to control the interface. Note: Disabling will cause you to lose control over this application when no keyboard or remote is present."
-msgstr "Använd en mus eller pekskärm för att hantera gränssnittet. Notera: Inaktivering leder till att du förlorar kontrollen över applikationen om tangentbord eller fjärkontroll saknas."
+msgstr "Använd en mus eller pekskärm för att hantera användargränssnittet. Notera: Inaktivering leder till att du förlorar kontrollen över applikationen om tangentbord eller fjärkontroll saknas."
 
 msgctxt "#36378"
 msgid "Use a joystick to control the interface."
-msgstr "Använd en joystick för att navigera i gränssnittet."
+msgstr "Använd en joystick för att navigera i användargränssnittet."
 
 msgctxt "#36379"
 msgid "This category contains the settings for how Internet access is handled. The default web interface can also be selected here."
@@ -13341,9 +13349,13 @@ msgctxt "#36390"
 msgid "Define what action to perform when the shutdown function timer lapsed."
 msgstr "Definiera vilken åtgärd som ska utföras när avstängningsfunktion timer är utgången."
 
+msgctxt "#36391"
+msgid "This category contains the settings for enabling event and debug logging. You can also enable component-specific debug logging in order to help troubleshoot related issues in more detail."
+msgstr "Denna kategori innehåller inställningar för att aktivera händelse- och felsökningsloggar. Du kan även aktivera komponentspecifik felsökningsloggning för att underlätta en mer detaljerad felsökning av relaterade problem."
+
 msgctxt "#36392"
 msgid "Turn debug logging on or off. Useful for troubleshooting."
-msgstr "Aktivera eller inaktivera debugloggning. Användbart för felsökning."
+msgstr "Aktivera eller inaktivera felsökningsloggning. Användbart vid felsökning."
 
 msgctxt "#36393"
 msgid "Select the folder where screenshots should be saved in."
@@ -13351,7 +13363,7 @@ msgstr "Välj var skärmdumparna ska sparas."
 
 msgctxt "#36394"
 msgid "Enables verbose messages from additional libraries to be included in the debug log."
-msgstr "Aktivera logg-meddelanden från ytterligare bibliotek, som ska inkluderas i loggen."
+msgstr "Aktiverar utförliga loggmeddelanden från ytterligare bibliotek som ska inkluderas i felsökningsloggen."
 
 msgctxt "#36395"
 msgid "This category contains the settings for how the master lock function is handled."
@@ -13451,7 +13463,7 @@ msgstr "Välj platser att använda för hämtning av väderinformation."
 
 msgctxt "#36420"
 msgid "Look for external subtitles for videos provided by the UPnP server. This can cause extensive CPU, filesystem and network load."
-msgstr "Leta efter externa undertexter för videor som tillhandahålls av UPnP-server. Detta kan orsaka omfattande CPU-, filsystem- och nätverksbelastning."
+msgstr "Leta efter externa undertexter för videor som tillhandahålls av UPnP-server. Detta kan orsaka omfattande processor-, filsystem- och nätverksbelastning."
 
 msgctxt "#36421"
 msgid "Bypassing VDPAU mixer saves resources on low power systems but slightly reduces picture quality."
@@ -13459,7 +13471,7 @@ msgstr "Att kringå VDPAU-mixern sparar resurser på lågenergisystem men förs�
 
 msgctxt "#36425"
 msgid "Show context menu"
-msgstr "Visa undermeny"
+msgstr "Visa sammanhangsmenyn"
 
 msgctxt "#36426"
 msgid "Switch to channel"
@@ -13475,7 +13487,7 @@ msgstr "Spela in"
 
 msgctxt "#36429"
 msgid "Select this if the audio out connection only supports multichannel audio as Dolby Digital 5.1 (AC-3), such as a S/PDIF connection. If your system supports PCM multichannel audio via HDMI, leave this disabled."
-msgstr "Välj detta om ljudutgången endast stödjer flerkanalsljud som Dolby Digital 5.1 (AC-3), som en S/PDIF-anslutning. Om ditt system stödjer PCM-flerkanalsljud via HDMI, låt detta vara avaktiverat."
+msgstr "Välj detta om ljudutgången endast stödjer flerkanalsljud som Dolby Digital 5.1 (AC-3), som en S/PDIF-anslutning. Om ditt system stödjer PCM-flerkanalsljud via HDMI, låt detta vara inaktiverat."
 
 msgctxt "#36430"
 msgid "Configure how video processing will be accelerated. This includes things like decoding and scaling."
@@ -13487,7 +13499,7 @@ msgstr "Välj layout för virtuella tangentbord."
 
 msgctxt "#36433"
 msgid "When enabled, VAAPI render method is preferred and the CPU has less load. If you experience hangs, disable this option."
-msgstr "Om aktiverad, VAAPI-rendering föredras och CPU'n belastas inte lika mycket. Om du upplever hängningar, avaktivera detta val."
+msgstr "Aktivera för att föredra VAAPI-rendering, vilket leder till lägre processorbelastning. Inaktivera denna inställning om du upplever att appen hänger sig."
 
 msgctxt "#36434"
 msgid "Allow hardware acceleration - MMAL"
@@ -13553,6 +13565,10 @@ msgctxt "#36510"
 msgid "Anaglyph yellow / blue"
 msgstr "Anaglyf gul/blå"
 
+msgctxt "#36511"
+msgid "Checkerboard"
+msgstr "Schackrutig"
+
 msgctxt "#36520"
 msgid "Playback mode of stereoscopic 3D videos"
 msgstr "Uppspelningsläge av stereoskopiska 3D-videor"
@@ -13605,17 +13621,21 @@ msgctxt "#36536"
 msgid "Invert stereoscopic 3D mode (flip eyes)"
 msgstr "Invertera stereoskopiskt 3D-läge (flip eyes)"
 
+msgctxt "#36537"
+msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
+msgstr "Välj vilket läge stereoskopiska 3D-videor skall spelas upp i.\n[CR][Fråga mig] Visar en dialogruta för att välja önskat läge vid varje uppspelning.\n[CR][Föredraget läge] Använder det föredragna läget som angivits under \"Inställningar\" -> \"System\" -> \"Grafikutgång\"\n[CR][Monoskopiskt / 2D] Spelar upp videon i mono / 2D.[CR][Ignorera] Inaktiverar all stereoskopisk 3D-behandling och hantering."
+
 msgctxt "#36538"
 msgid "[Enabled] Switch GUI (and some TVs) back to 2D mode, between videos in a playlist or when playback ended.[CR][Disabled] GUI and TV will stay in stereoscopic 3D mode. For video playlists with mixed stereoscopic 3D and 2D content, then the GUI will also stay in stereoscopic 3D mode even when a non-stereoscopic 2D video is playing."
-msgstr "[Aktiverad] Ändra gränssnitt (och vissa TV-apparater) tillbaka till 2D-läge mellan videor i en spellista eller när uppspelningen avslutas.[CR]\n[Avaktiverad] Gränssnittet och TV:n kommer vara kvar i stereoskopiskt 3D-läge. För videospellistor med blandat 2D- och 3D-material kommer gränssnittet stanna kvar i stereoskopiskt 3D-läge även om en icke-stereoskopisk 2D-video spelas."
+msgstr "[Aktiverad] Ändrar tillbaka användargränssnittet (och vissa TV-apparater) till 2D-läge mellan videor i en spellista eller när uppspelningen avslutas.[CR]\n[Inaktiverad] Användargränssnittet och TV:n kommer vara kvar i stereoskopiskt 3D-läge. För videospellistor med blandat 2D- och 3D-material kommer gränssnittet stanna kvar i stereoskopiskt 3D-läge även om en icke-stereoskopisk 2D-video spelas."
 
 msgctxt "#36539"
 msgid "Changes the stereoscopic 3D mode of the user interface."
-msgstr "Ändrar det stereoskopiska 3D-läget i användargränssnittet."
+msgstr "Ändrar det stereoskopiska 3D-läget på användargränssnittet."
 
 msgctxt "#36540"
 msgid "The preferred mode in which stereoscopic 3D media such as videos should be played."
-msgstr "Föredraget läge i hur stereoskopisk 3D-media som tex videos ska spelas."
+msgstr "Föredraget läge för hur stereoskopisk 3D-media som t.ex. videor ska spelas upp."
 
 msgctxt "#36541"
 msgid "Allows volume control from AirPlay clients."
@@ -13623,11 +13643,11 @@ msgstr "Tillåter volymkontroll från AirPlay-klienter."
 
 msgctxt "#36542"
 msgid "Output to both analogue (headphones) and HDMI"
-msgstr " Mata ut ljud både analogt (hörlurar) och HDMI"
+msgstr "Mata ut ljud både till analog (hörlurar) och HDMI-utgång."
 
 msgctxt "#36543"
 msgid "Enable this to make dialogue louder compared to background sounds when downmixing multichannel audio"
-msgstr "Aktivera detta för att göra dialogen högre jämfört med bakgrundsljud vid nedmixning av multikanalsljud."
+msgstr "Aktivera detta för att göra dialogen högre jämfört med bakgrundsljud vid nedmixning av flerkanalsljud."
 
 msgctxt "#36544"
 msgid "Enable hardware decoding of video files."
@@ -13635,11 +13655,11 @@ msgstr "Aktivera hårdvaruavkodning av videofiler."
 
 msgctxt "#36545"
 msgid "Stereoscopic 3D depth of subtitles"
-msgstr "Stereoskopiskt 3D-ljup på undertexter"
+msgstr "Stereoskopiskt 3D-djup på undertexter"
 
 msgctxt "#36546"
 msgid "Sets the visual depth of subtitles for stereoscopic 3D videos. The higher the value, the closer the subtitles will appear to the viewer."
-msgstr "Anger det visuella djupet för undertexter i stereoskopiska 3D-filmer. Ju högre värde, ju närmare upplever betraktaren att undertexterna hamnar."
+msgstr "Anger det visuella djupet för undertexter i stereoskopiska 3D-filmer. Ju högre värde desto närmare upplever betraktaren att undertexterna hamnar."
 
 msgctxt "#36547"
 msgid "Use higher quality textures for covers and fanart (uses more memory)"
@@ -13647,7 +13667,11 @@ msgstr "Använd högkvalitetstexturer för fanart och omslag (använder mer minn
 
 msgctxt "#36548"
 msgid "Limits resolution of GUI to save memory. Does not affect video playback. Requires restart."
-msgstr "Begränsar upplösningen av gränssnittet för att spara minne. Påverkar inte videouppspelningen. Kräver omstart."
+msgstr "Begränsar upplösningen av användargränssnittet för att spara minne. Påverkar inte videouppspelningen. Kräver omstart."
+
+msgctxt "#36549"
+msgid "Enables support for receiving \"Videos\" and \"Pictures\" via AirPlay. This needs to be disabled when using iOS 9 or later clients to restore music streaming via AirPlay. \"Videos\" and \"Pictures\" are only supported for iOS clients using iOS 8.x and older."
+msgstr "Aktiverar stöd för att ta emot videor och bilder via AirPlay. Detta måste inaktiveras vid användning av iOS 9 eller senare för att kunna strömma musik via AirPlay.\nDenna funktionalitet stöds bara av iOS 8 och tidigare."
 
 msgctxt "#36550"
 msgid "Stereoscopic 3D effect strength"
@@ -13655,7 +13679,7 @@ msgstr "Styrka för stereoskopisk 3D-effekt"
 
 msgctxt "#36551"
 msgid "Defines the strength of the stereoscopic 3D effect in the GUI. This is done by controlling the depth of perception within the GUI, so the higher the value, the more elements will pop out of the screen. [Zero] Disables the stereoscopic 3D effect of the GUI.[CR]For a good visual experience, the value should be higher for small screens and lower for large screens. Note: this is not supported by all skins."
-msgstr "Definierar styrkan av den stereoskopiska 3D-effekten i gränssnittet. Detta sker genom att justera perspektivdjupet i gränssnittet. Ju högre värde desto fler objekt kommer placeras utanför skärmen. [0] för att avaktivera den stereoskopiska 3D-effekten i gränssnittet.\n[CR]För att ge en bra visuell upplevelse bör värdet ställas högre för mindre skärmar och lägre för större skärmar. Notera att detta inte stöds av alla skal."
+msgstr "Definierar styrkan av den stereoskopiska 3D-effekten i användargränssnittet. Detta sker genom att justera perspektivdjupet i gränssnittet. Ju högre värde desto fler objekt kommer placeras utanför skärmen. [Noll] för att inaktivera den stereoskopiska 3D-effekten i användargränssnittet.\n[CR]För att ge en bra visuell upplevelse bör värdet ställas högre för mindre skärmar och lägre för större skärmar. Notera att detta inte stöds av alla skal."
 
 msgctxt "#36600"
 msgid "This category contains the settings for how the music library is handled."
@@ -13679,19 +13703,19 @@ msgstr "Sortera biblioteksobjekt efter datum"
 
 msgctxt "#36605"
 msgid "It will sort library items by date added (current date, modified time or creation time)"
-msgstr "Sorterar biblioteksobjekt efter datum (nuvarande datum, ändringstid eller skapelsetid) "
+msgstr "Sortera biblioteksobjekt efter datum/tid med tre olika tidskällor:[CR]\n[Nuvarande tid] Använder datumet/tiden då objektet lades till i biblioteket.[CR]\n[Ändringstid] Använder datumet/tiden då filen senast ändrades, annars används skapelsetiden för filen.[CR]\n[Senaste tid] Använder den tid som är senast av antingen skapelsetid eller ändringstid för filen."
 
 msgctxt "#36606"
 msgid "Current date/time"
-msgstr "Nuvarande datum/tid"
+msgstr "Nuvarande tid"
 
 msgctxt "#36607"
 msgid "File modify time"
-msgstr "Filändringstid"
+msgstr "Ändringstid"
 
 msgctxt "#36608"
 msgid "File change time"
-msgstr "Filskapningstid"
+msgstr "Senaste tid"
 
 msgctxt "#36609"
 msgid "Timeout in seconds"
@@ -13719,7 +13743,7 @@ msgstr "Antal försök för vissa misslyckade libcurl-operationer (t.ex. timeout
 
 msgctxt "#36615"
 msgid "Disable ipv6"
-msgstr "Avaktivera IPv6"
+msgstr "Inaktivera IPv6"
 
 msgctxt "#36616"
 msgid "Certain hardware/OS combinations have trouble with ipv6"
@@ -13731,7 +13755,7 @@ msgstr "Bufferstorlek (MB)"
 
 msgctxt "#36618"
 msgid "Number of MB used for buffering streams in memory, When set to 0 the cache will be written to disk instead of RAM"
-msgstr "Antal MB av RAM-minnet som används för att buffra strömmar.\nOm det ställs till 0 kommer cachen skrivas till filsystemet istället för RAM-minnet"
+msgstr "Antal MB av minnet som används för att buffra strömmar.\nOm det ställs till 0 kommer cachen skrivas till filsystemet istället för minnet"
 
 msgctxt "#36619"
 msgid "Buffer mode"
@@ -13763,7 +13787,7 @@ msgstr "SMB stat"
 
 msgctxt "#36626"
 msgid "Disable to speed up listings of large directories over SMB network"
-msgstr "Avaktivera för att snabba upp listningen av stora mappar om du använder SMB-nätverk."
+msgstr "Inaktivera för att snabba upp listningen av stora mappar om du använder SMB-nätverk."
 
 msgctxt "#36627"
 msgid "SMB timeout"
@@ -13783,7 +13807,7 @@ msgstr "Det här kan hjälpa till att hålla bufferten fylld vid dålig uppkoppl
 
 msgctxt "#36631"
 msgid "Allow hardware decoding of interlaced files."
-msgstr "Tillåt hårdvaruavkodning av interlacade filer."
+msgstr "Tillåt hårdvaruavkodning av sammanflätade filer."
 
 msgctxt "#36632"
 msgid "Timeout in seconds for MySQL connections"
@@ -13955,7 +13979,7 @@ msgstr "Aktivera grafik med högre färgdjup"
 
 msgctxt "#37021"
 msgid "Set GUI resolution limit"
-msgstr "Ange gräns för gränssnittsupplösning"
+msgstr "Ange gräns för användargränssnittsupplösning"
 
 msgctxt "#37022"
 msgid "UPnP player"
@@ -14099,11 +14123,11 @@ msgstr "Visa \"Allt\" meny i katalogen. Till exempel \"Alla album\" eller \"Alla
 
 msgctxt "#38013"
 msgid "Limit GUI updates during playback"
-msgstr "Begränsa gränssnittsuppdateringar under uppspelning"
+msgstr "Begränsa användargränssnittsuppdateringar under uppspelning"
 
 msgctxt "#38014"
 msgid "Limits the speed (fps) used to update the GUI while playing videos. This can reduce CPU load and fix playback issues while the GUI is shown."
-msgstr "Begränsar hastigheten (fps) som används för att uppdatera gränssnittet under uppspelning av videor. Detta kan reducera processoranvändningen och fixa uppspelningsproblem när gränssnittet visas."
+msgstr "Begränsar hastigheten (fps) som används för att uppdatera användargränssnittet under uppspelning av videor. Detta kan reducera processoranvändningen och fixa uppspelningsproblem när användargränssnittet visas."
 
 msgctxt "#38015"
 msgid "Unlimited"
@@ -14127,7 +14151,7 @@ msgstr "Stöd 8-kanals DTS-HD ljudavkodning"
 
 msgctxt "#38020"
 msgid "Enables decoding of high quality DTS-HD audio streams. Note: This increases CPU load and is only available when DTS and DTS-HD audio passthrough are disabled."
-msgstr "Aktiverar avkodning av högkvalitativa DTS-HD ljudströmmar. Notera: Detta ökar CPU-användningen och är endast tillgängligt när DTS och DTS-HD-ljud passthrough är inaktiverat."
+msgstr "Aktiverar avkodning av högkvalitativa DTS-HD ljudströmmar. Notera: Detta ökar processoranvändningen och är endast tillgängligt när DTS och DTS-HD-ljud passthrough är inaktiverat."
 
 msgctxt "#38022"
 msgid "No rating"
@@ -14143,7 +14167,7 @@ msgstr "Stöd MVC-video (3D med fullt antal bildrutor)"
 
 msgctxt "#38111"
 msgid "This option decodes frames for both eyes of MVC video. Disabling may improve performance if you don't require 3D"
-msgstr "Det här valet avkodar bildrutor från MVC-video för bägge ögonen. Att avaktivera kan förbättra prestanda om du inte kräver 3D"
+msgstr "Det här valet avkodar bildrutor från MVC-video för bägge ögonen. Att inaktivera kan förbättra prestanda om du inte kräver 3D"
 
 msgctxt "#38112"
 msgid "Use Full HD HDMI modes for 3D"
@@ -14151,7 +14175,7 @@ msgstr "Använd full-HD HDMI-läge för 3D"
 
 msgctxt "#38113"
 msgid "This option uses frame-packing to output full resolution for 3D through HDMI"
-msgstr "Det här valet använder bildruteförpackning för att skicka 3D-video i full upplösning genom HDMI"
+msgstr "Det här valet använder bildrutepackning för att skicka 3D-video i full upplösning genom HDMI"
 
 msgctxt "#6"
 msgid "Kodi SVN"
