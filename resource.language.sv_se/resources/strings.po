@@ -4705,6 +4705,10 @@ msgctxt "#13271"
 msgid "CPU usage:"
 msgstr "Processoranvändning:"
 
+msgctxt "#13272"
+msgid "Passthrough format is IEC Packed"
+msgstr "Ljudgenomströmningsformatet är IEC-förpackat"
+
 msgctxt "#13274"
 msgid "Connected, but no DNS is available."
 msgstr "Ansluten, men ingen DNS tillgänglig."
@@ -8920,6 +8924,10 @@ msgstr "Androidappar"
 msgctxt "#20246"
 msgid "Enable debug logging of memory/cpu usage"
 msgstr "Aktivera felsökningsloggning av minne/"
+
+msgctxt "#20247"
+msgid "Use IEC packed format for passthrough"
+msgstr "Använd IEC-förpackning som format för ljudgenomströmning."
 
 msgctxt "#20250"
 msgid "Party on! (videos)"
@@ -13243,7 +13251,7 @@ msgstr "Välj hur egenskaperna för ljudutgången skall bestämmas: [Fixerad] - 
 
 msgctxt "#36362"
 msgid "Select the number of channels supported by the audio connection, or the number of speakers if connected by analogue connections. This setting does not apply to passthrough audio. Note: S/PDIF supports 2.0 channels only but can still output multichannel audio using a format supported by passthrough."
-msgstr "Välj antal kanaler som stöds av anslutningen, eller antal högtalare om anslutningen är analog. Denna inställning påverkar inte obehandlat ljud. Notera - SPDIF stöder endast 2.0 men kan fortfarande skicka flerkanalsljud om i ett obehandlat format."
+msgstr "Välj antal kanaler som stöds av anslutningen, eller antal högtalare om anslutningen är analog. Denna inställning påverkar inte ljudgenomströmning. Notera - SPDIF stöder endast 2.0 men kan fortfarande genomströmma flerkanalsljud i de format som stöder det."
 
 msgctxt "#36363"
 msgid "Boost AC3 streams that have been downmixed to 2 channels."
@@ -13263,7 +13271,7 @@ msgstr "Ange max antal ljudkanaler/högtalare tillgängliga för ljudavkodning. 
 
 msgctxt "#36368"
 msgid "Select to enable the passthrough audio options for playback of encoded audio such as Dolby Digital (AC3), DTS, etc."
-msgstr "Ange alternativen för ljud som spelas upp direkt utan behandling, t.ex Dolby Digital (AC3), DTS, etc."
+msgstr "Välj för att aktivera ljudgenomströmningsalternativen för kodade ljudformat som t.ex Dolby Digital (AC3), DTS, etc."
 
 msgctxt "#36369"
 msgid "Select this option if your receiver is capable of decoding TrueHD streams."
@@ -13587,7 +13595,7 @@ msgstr "Schackrutig"
 
 msgctxt "#36520"
 msgid "Playback mode of stereoscopic 3D videos"
-msgstr "Uppspelningsläge av stereoskopiska 3D-videor"
+msgstr "Uppspelningsläge för stereoskopiska 3D-videor"
 
 msgctxt "#36521"
 msgid "Ask me"
@@ -13595,7 +13603,7 @@ msgstr "Fråga mig"
 
 msgctxt "#36523"
 msgid "Maximum sampling rate for S/PDIF or sampling rate for fixed output configuration."
-msgstr "Största samplingsfrekvens för S/PDIF eller samplingsfrekvens för fixerad utgångskonfiguration."
+msgstr "Högsta samplingsfrekvens för S/PDIF eller samplingsfrekvens för statisk utgångskonfiguration."
 
 msgctxt "#36524"
 msgid "Preferred mode"
@@ -13625,17 +13633,21 @@ msgctxt "#36532"
 msgid "Same as movie"
 msgstr "Samma som filmen"
 
+msgctxt "#36533"
+msgid "Select how audio is downmixed, e.g. from 5.1 to 2.0.[CR][Enabled] Maintains volume level of the original audio source however the dynamic range is compressed.[CR][Disabled] Maintains the dynamic range of the original audio source when downmixed however volume will be lower. Note: Dynamic range is the difference between the quietest and loudest sounds in an audio source. Enable this setting if movie dialogues are barely audible."
+msgstr "Välj hur ljud skall nedmixas, t.ex. från 5.1 till 2.0.[CR]\n[Aktiverad] Behåller ljudnivån från originalljudkällan. Detta komprimerar det dynamiska ljudomfånget.[CR]\n[Inaktiverad] Behåller det dynamiska ljudomfånget från originalljudkällan. Detta kommer sänka ljudnivån.[CR]\nNotera: Dynamiskt ljudomfång är skillnaden mellan de tystaste och de mest högljudda ljuden i en ljudkälla. Aktivera denna inställning om filmdialoger knappt är hörbara."
+
 msgctxt "#36534"
 msgid "Specify additional libraries whose verbose messages are to be included in the debug log."
-msgstr "Ange ytterligare bibliotek vars uförliga meddelanden som ska ingå i felsökningsloggen."
+msgstr "Ange ytterligare bibliotek vars uförliga meddelanden ska ingå i felsökningsloggen."
 
 msgctxt "#36535"
 msgid "Stereoscopic 3D mode of video"
-msgstr "Stereoskopiskt 3D-läge av video"
+msgstr "Stereoskopiskt 3D-läge för video"
 
 msgctxt "#36536"
 msgid "Invert stereoscopic 3D mode (flip eyes)"
-msgstr "Invertera stereoskopiskt 3D-läge (flip eyes)"
+msgstr "Invertera stereoskopiskt 3D-läge (växla ögon)"
 
 msgctxt "#36537"
 msgid "Select in which mode stereoscopic 3D videos will be played.[CR][Ask me] Will show a dialogue to select the desired mode for each playback.[CR][Preferred mode] Will use the preferred mode specified in the \"System -> Video hardware\" section of the settings.[CR][Monoscopic / 2D] Will play the video in mono / 2D.[CR][Ignore] Disables any stereoscopic 3D processing and handling."
@@ -14167,7 +14179,7 @@ msgstr "Stöd 8-kanals DTS-HD ljudavkodning"
 
 msgctxt "#38020"
 msgid "Enables decoding of high quality DTS-HD audio streams. Note: This increases CPU load and is only available when DTS and DTS-HD audio passthrough are disabled."
-msgstr "Aktiverar avkodning av högkvalitativa DTS-HD ljudströmmar. Notera: Detta ökar processoranvändningen och är endast tillgängligt när DTS och DTS-HD-ljud passthrough är inaktiverat."
+msgstr "Aktiverar avkodning av högkvalitativa DTS-HD ljudströmmar. Notera: Detta ökar processoranvändningen och är endast tillgängligt när DTS och DTS-HD-ljudgenomströmning är inaktiverat."
 
 msgctxt "#38022"
 msgid "No rating"
