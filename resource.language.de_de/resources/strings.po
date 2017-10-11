@@ -14409,3 +14409,11 @@ msgstr "Dark Theme aktivieren"
 msgctxt "#35506"
 msgid "Main menu options"
 msgstr "Hauptmenü-Optionen"
+
+msgctxt "#35507"
+msgid "TV Menu goes to TV Guide"
+msgstr "TV-Menü geht an TV-Guide"
+
+msgctxt "#1178"
+msgid "Show watched items on home screen"
+msgstr "Gesehene Elemente auf dem Startbildschirm anzeigen"
