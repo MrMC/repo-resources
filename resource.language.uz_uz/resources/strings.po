@@ -1,25 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MrMC Main
-"
-"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
-"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"Last-Translator: MrMC Translation Team
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
-"Language: en_GB
-"
-"Plural-Forms: nplurals=2; plural=(n != 1);
-"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.co\n"
+"Project-Id-Version: MrMC\n"
+"PO-Revision-Date: 2018-01-15 18:22\n"
+"Last-Translator: lokalise.co\n"
+"Language-Team: lokalise.co\n\n"
+"Language: uz_uz\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -4168,19 +4157,3 @@ msgstr "GPU tezlashtirilgan"
 msgctxt "#38015"
 msgid "Unlimited"
 msgstr "Cheklanmagan"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media markaz"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Kodi haqida"
-
-msgctxt "#37027"
-msgid "540"
-msgstr "540"

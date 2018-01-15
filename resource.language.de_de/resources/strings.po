@@ -1,25 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MrMC Main
-"
-"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
-"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"Last-Translator: MrMC Translation Team
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
-"Language: en_GB
-"
-"Plural-Forms: nplurals=2; plural=(n != 1);
-"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.co\n"
+"Project-Id-Version: MrMC\n"
+"PO-Revision-Date: 2018-01-15 18:22\n"
+"Last-Translator: lokalise.co\n"
+"Language-Team: lokalise.co\n\n"
+"Language: de_de\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -14285,94 +14274,6 @@ msgstr "Verwenden Sie Full HD HDMI-Modi für 3D"
 msgctxt "#38113"
 msgid "This option uses frame-packing to output full resolution for 3D through HDMI"
 msgstr "Diese Option verwendet Frame-Packing, um die volle Auflösung für 3D über HDMI auszugeben"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi Media Center"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Über Kodi"
-
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Hardware-Beschleunigung erlauben - amcodec"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Starten von Kodi über Fernbedienung erlauben"
-
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Schärfe"
-
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Virtuelles Kodi-Backend"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Kodi verwenden"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Cache voll"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Cache gefüllt vor Erreichen der erforderlichen Menge für die kontinuierliche Wiedergabe"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Die alte XBMC Konfiguration wurde zur Nutzung mit Kodi verschoben. Bitte sehen Sie auf http://kodi.wiki/view/Migration nach - diese Nachricht wird nicht erneut angezeigt werden!"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "Die Verbindung zum Repository kann nicht hergestellt werden."
-
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Den Start von Kodi mit der Fernbedienung erlauben."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Hardware-Videodekodierung mit Amlogic-Dekoder aktivieren."
-
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
-
-msgctxt "#4"
-msgid "TV-Guide"
-msgstr "Fernsehprogramm"
-
-msgctxt "#120"
-msgid "Confirm file copy"
-msgstr "Datei kopieren bestätigen"
-
-msgctxt "#121"
-msgid "Confirm file move"
-msgstr "Datei verschieben bestätigen"
-
-msgctxt "#123"
-msgid "Copy these files?"
-msgstr "Diese Dateien kopieren?"
-
-msgctxt "#124"
-msgid "Move these files?"
-msgstr "Diese Dateien verschieben?"
-
-msgctxt "#125"
-msgid "Delete these files? - Deleting files cannot be undone!"
-msgstr "Diese Dateien löschen? - Löschen von Dateien kann nicht rückgängig gemacht werden!"
-
-msgctxt "#138"
-msgid "System Information"
-msgstr "System Information"
 
 msgctxt "#896"
 msgid "You are currently using Lite version of MrMC,"

@@ -1,25 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MrMC Main
-"
-"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
-"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"Last-Translator: MrMC Translation Team
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
-"Language: en_GB
-"
-"Plural-Forms: nplurals=2; plural=(n != 1);
-"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.co\n"
+"Project-Id-Version: MrMC\n"
+"PO-Revision-Date: 2018-01-15 18:22\n"
+"Last-Translator: lokalise.co\n"
+"Language-Team: lokalise.co\n\n"
+"Language: zh_TW\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -13512,63 +13501,3 @@ msgstr "%d fps"
 msgctxt "#38019"
 msgid "Support 8 channel DTS-HD audio decoding"
 msgstr "支援8通道DTS-HD音頻解碼"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi 媒體中心"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "關於 Kodi"
-
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "允許硬體加速 - amcodec"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "允許用遙控器啟動 Kodi"
-
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - 銳化"
-
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi 虛擬後端"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "使用 Kodi"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "完整快取"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "只快取到足夠連續播放的資料量"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "XBMC 的設定已經被移動到 Kodi 使用的新位置。詳情請參考 http://kodi.wiki/view/Migration。（此訊息不會再顯示！）"
-
-msgctxt "#24991"
-msgid "Could not connect to repository."
-msgstr "無法連線到來源庫。"
-
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "永遠執行 Kodi 小幫手讓你可以使用遙控器來啟動 Kodi。"
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "啟用 Amlogic 硬體解碼。"
-
-msgctxt "#37027"
-msgid "540"
-msgstr "540"

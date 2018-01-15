@@ -1,25 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MrMC Main
-"
-"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
-"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"Last-Translator: MrMC Translation Team
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
-"Language: en_GB
-"
-"Plural-Forms: nplurals=2; plural=(n != 1);
-"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.co\n"
+"Project-Id-Version: MrMC\n"
+"PO-Revision-Date: 2018-01-15 18:22\n"
+"Last-Translator: lokalise.co\n"
+"Language-Team: lokalise.co\n\n"
+"Language: da_dk\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -12816,59 +12805,3 @@ msgstr "Ubegrænset"
 msgctxt "#38016"
 msgid "%d fps"
 msgstr "%d fps"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi mediecenter"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Om Kodi"
-
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Tillad hardwareacceleration - amcodec"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Tillad start af Kodi med fjernbetjeningen"
-
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU (Skarphed)"
-
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Kodi virtuel backend"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Brug Kodi"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Cache er fuld"
-
-msgctxt "#21455"
-msgid "Cache filled before reaching required amount for continuous playback"
-msgstr "Cachen blev fyldt før den påkrævede mængde for kontinuerlig afspilning blev nået"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Konfigurationen af XBMC er blevet flyttet til en ny lokalitet for Kodi. Se venligst http://kodi.wiki/view/Migration - denne besked vises ikke igen."
-
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Kør altid Kodi-hjælperen således at fjernbetjening kan benyttes til at starte Kodi."
-
-msgctxt "#36422"
-msgid "Enable hardware video decode using Amlogic decoder."
-msgstr "Aktiver hardware video dekodning ved hjælp af AMLogic dekoder."
-
-msgctxt "#37027"
-msgid "540"
-msgstr "540"

@@ -1,25 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MrMC Main
-"
-"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
-"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"Last-Translator: MrMC Translation Team
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
-"Language: en_GB
-"
-"Plural-Forms: nplurals=2; plural=(n != 1);
-"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.co\n"
+"Project-Id-Version: MrMC\n"
+"PO-Revision-Date: 2018-01-15 18:22\n"
+"Last-Translator: lokalise.co\n"
+"Language-Team: lokalise.co\n\n"
+"Language: ca_es\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -11628,43 +11617,3 @@ msgstr "Il·limitat"
 msgctxt "#38016"
 msgid "%d fps"
 msgstr "%d fps"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Kodi media center"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "Quant al Kodi"
-
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Permet l'acceleració del maquinari - amcodec"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Permet l'inici del Kodi amb el control remot"
-
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDAPU - Nitidesa"
-
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Rerefons virtual del Kodi"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Utilitza el Kodi"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Memòria cau plena"
-
-msgctxt "#37027"
-msgid "540"
-msgstr "540"

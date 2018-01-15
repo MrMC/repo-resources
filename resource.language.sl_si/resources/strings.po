@@ -1,25 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MrMC Main
-"
-"Report-Msgid-Bugs-To: https://github.com/MrMC/mrmc/issues
-"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
-"
-"Last-Translator: MrMC Translation Team
-"
-"MIME-Version: 1.0
-"
-"Content-Type: text/plain; charset=UTF-8
-"
-"Content-Transfer-Encoding: 8bit
-"
-"Language: en_GB
-"
-"Plural-Forms: nplurals=2; plural=(n != 1);
-"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.co\n"
+"Project-Id-Version: MrMC\n"
+"PO-Revision-Date: 2018-01-15 18:22\n"
+"Last-Translator: lokalise.co\n"
+"Language-Team: lokalise.co\n\n"
+"Language: sl_SI\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -12108,51 +12097,3 @@ msgstr "Podpri zvočno 8-kanalno dekodiranje DTS-HD"
 msgctxt "#38022"
 msgid "No rating"
 msgstr "Brez ocene"
-
-msgctxt "#6"
-msgid "Kodi SVN"
-msgstr "Kodi SVN"
-
-msgctxt "#9"
-msgid "Kodi media center"
-msgstr "Media center Kodi"
-
-msgctxt "#482"
-msgid "About Kodi"
-msgstr "O Kodiju"
-
-msgctxt "#13438"
-msgid "Allow hardware acceleration - amcodec"
-msgstr "Dovoli strojno pospeševanje - amcodec"
-
-msgctxt "#13602"
-msgid "Allow start of Kodi using the remote"
-msgstr "Dovoli zagon Kodi-ja preko upravljalnika"
-
-msgctxt "#16313"
-msgid "VDPAU - Sharpness"
-msgstr "VDPAU - Ostrina"
-
-msgctxt "#19209"
-msgid "Kodi virtual backend"
-msgstr "Virtualna hrbtenica Kodi"
-
-msgctxt "#20009"
-msgid "Use Kodi"
-msgstr "Uporabi Kodi"
-
-msgctxt "#21454"
-msgid "Cache full"
-msgstr "Predpomnilnik poln"
-
-msgctxt "#24129"
-msgid "The configuration of XBMC has been moved to the new location for Kodi. Please refer to http://kodi.wiki/view/Migration - this message will not be shown again!"
-msgstr "Nastavitve XBMC so za Kodija premaknjene na novo mesto. Oglejte si http://kodi.wiki/view/Migration - to sporočilo ne bo več prikazano!"
-
-msgctxt "#36417"
-msgid "Always run a Kodi helper so that the remote can be used to start Kodi."
-msgstr "Vedno zaženite Kodi pomočnika, da bo lahko uporabljen daljinec za zagon Kodija."
-
-msgctxt "#37027"
-msgid "540"
-msgstr "540"
