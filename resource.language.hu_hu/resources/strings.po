@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.co\n"
 "Project-Id-Version: MrMC\n"
-"PO-Revision-Date: 2018-07-14 06:11\n"
+"PO-Revision-Date: 2019-03-10 21:26\n"
 "Last-Translator: lokalise.co\n"
 "Language-Team: lokalise.co\n\n"
 "Language: hu_hu\n"
@@ -34,6 +34,10 @@ msgctxt "#5"
 msgid "Settings"
 msgstr "Beállítások"
 
+msgctxt "#6"
+msgid "MrMC SVN"
+msgstr "MrMC SVN"
+
 msgctxt "#7"
 msgid "File manager"
 msgstr "Fájlkezelő"
@@ -41,6 +45,10 @@ msgstr "Fájlkezelő"
 msgctxt "#8"
 msgid "Weather"
 msgstr "Időjárás"
+
+msgctxt "#9"
+msgid "MrMC media center"
+msgstr "MrMC media center"
 
 msgctxt "#11"
 msgid "Monday"
@@ -1782,6 +1790,10 @@ msgctxt "#481"
 msgid "Audio options"
 msgstr "Hangbeállítások"
 
+msgctxt "#482"
+msgid "About MrMC"
+msgstr "Az MrMC-ről"
+
 msgctxt "#485"
 msgid "Delete album"
 msgstr "Album törlése"
@@ -2258,6 +2270,10 @@ msgctxt "#614"
 msgid "Virtual folder"
 msgstr "Virtuális mappa"
 
+msgctxt "#615"
+msgid "Cached Images"
+msgstr "Gyorsítótárazott képek"
+
 msgctxt "#620"
 msgid "Audio CDs"
 msgstr "Zenei CD-k"
@@ -2490,6 +2506,14 @@ msgctxt "#680"
 msgid "Verbose logging for the [B]Video[/B] component"
 msgstr "A [B]Video[/B] komponens részletes naplózása"
 
+msgctxt "#682"
+msgid "In Progress"
+msgstr "Folyamatban"
+
+msgctxt "#683"
+msgid "Both if possible"
+msgstr "Mindkettő, ha lehetséges"
+
 msgctxt "#700"
 msgid "Cleaning up library"
 msgstr "Médiatár tisztítása"
@@ -2501,6 +2525,10 @@ msgstr "Régi dalok eltávolítása a médiatárból"
 msgctxt "#702"
 msgid "This path has been scanned before"
 msgstr "Ez az elérési út már át lett vizsgálva korábban"
+
+msgctxt "#703"
+msgid "Home screen items"
+msgstr "Kezdőképernyő elemei"
 
 msgctxt "#705"
 msgid "Network"
@@ -2709,6 +2737,10 @@ msgstr "Szürke"
 msgctxt "#770"
 msgid "Error %i: share not available"
 msgstr "Hiba %i: megosztás nem elérhető"
+
+msgctxt "#771"
+msgid " Login authorization failed with error code: %i"
+msgstr " A belépés engedélyezése nem sikerült, a hiba kód:%i"
 
 msgctxt "#772"
 msgid "Audio output"
@@ -2989,6 +3021,78 @@ msgstr "Érvényes porttartomány: 1-65535"
 msgctxt "#852"
 msgid "Valid port range is 1024-65535"
 msgstr "Érvényes porttartomány: 1024-65535"
+
+msgctxt "#853"
+msgid "Enable LightEffects"
+msgstr "A LightEffects bekapcsolása"
+
+msgctxt "#855"
+msgid "LightEffects/boblight server IP"
+msgstr "LightEffects/boblight kiszolgáló IP"
+
+msgctxt "#856"
+msgid "LightEffects/boblight server port"
+msgstr "LightEffects/boblight kiszolgáló portja"
+
+msgctxt "#857"
+msgid "LightEffects client"
+msgstr "LightEffects kliens"
+
+msgctxt "#858"
+msgid "Setup LightEffects connection to external server"
+msgstr "A LightEffects kapcsolat beállítása külső szerverre"
+
+msgctxt "#859"
+msgid "Saturation"
+msgstr "Telítettség"
+
+msgctxt "#861"
+msgid "Value"
+msgstr "Érték"
+
+msgctxt "#862"
+msgid "%.1f"
+msgstr "%.1f"
+
+msgctxt "#863"
+msgid "Speed"
+msgstr "Sebesség"
+
+msgctxt "#867"
+msgid "Interpolation"
+msgstr "Interpoláció"
+
+msgctxt "#869"
+msgid "Threshold"
+msgstr "Küszöb"
+
+msgctxt "#871"
+msgid "Static colour"
+msgstr "Statikus szín"
+
+msgctxt "#872"
+msgid "Enable static colour while video is not playing."
+msgstr "Statikus szín bekapcsolása amíg nincs videó lejátszás."
+
+msgctxt "#873"
+msgid "Red"
+msgstr "Piros"
+
+msgctxt "#875"
+msgid "Green"
+msgstr "Zöld"
+
+msgctxt "#877"
+msgid "Blue"
+msgstr "Kék"
+
+msgctxt "#882"
+msgid "Error, check your settings"
+msgstr "Hiba, ellenőrizze a beállításokat"
+
+msgctxt "#886"
+msgid "Auto hide OSD"
+msgstr "Az OSD automatikus elrejtése"
 
 msgctxt "#997"
 msgid "Add pictures..."
@@ -3302,6 +3406,10 @@ msgctxt "#1223"
 msgid "Disabled"
 msgstr "Letiltva"
 
+msgctxt "#1224"
+msgid "Overwrite existing configuration"
+msgstr "A meglévő konfiguráció felülírása"
+
 msgctxt "#1226"
 msgid "Files & music & video"
 msgstr "Fájlok & zene & videó"
@@ -3342,6 +3450,26 @@ msgctxt "#1235"
 msgid "Programs & pictures & video"
 msgstr "Programok & képek & videó"
 
+msgctxt "#1236"
+msgid "Plex client"
+msgstr "Plex kliens"
+
+msgctxt "#1240"
+msgid "Sign-in"
+msgstr "Bejelentkezés"
+
+msgctxt "#1241"
+msgid "Sign-out"
+msgstr "Kijelentkezés"
+
+msgctxt "#1252"
+msgid "Enable Transcode"
+msgstr "Átkódolás bekapcsolása"
+
+msgctxt "#1254"
+msgid "Transcode quality"
+msgstr "Átkódolás minősége"
+
 msgctxt "#1259"
 msgid "Zeroconf"
 msgstr "Zeroconf"
@@ -3349,6 +3477,18 @@ msgstr "Zeroconf"
 msgctxt "#1260"
 msgid "Announce services to other systems"
 msgstr "Szolgáltatások közzététele más rendszerek számára"
+
+msgctxt "#1261"
+msgid "MySQL client"
+msgstr "MySQL kliens"
+
+msgctxt "#1265"
+msgid "Define video database name"
+msgstr "Add meg a videó adatbázis nevét"
+
+msgctxt "#1266"
+msgid "Define music database name"
+msgstr "Add meg a zenei adatbázis nevét"
 
 msgctxt "#1268"
 msgid "Enable AirPlay \"Videos\" and \"Pictures\" support"
@@ -3381,6 +3521,70 @@ msgstr "AirTunes"
 msgctxt "#1275"
 msgid "Filter %s"
 msgstr "Szűrés: %s"
+
+msgctxt "#1276"
+msgid "320Kbps|576x320"
+msgstr "320 kbps | 576x320"
+
+msgctxt "#1277"
+msgid "720Kbps|720x480"
+msgstr "720 Kbps | 720x480"
+
+msgctxt "#1278"
+msgid "1.5Mbps|1024x768"
+msgstr "1.5 Mbps | 1024x768"
+
+msgctxt "#1279"
+msgid "2Mbps|1280x720"
+msgstr "2 Mbps | 1280x720"
+
+msgctxt "#1280"
+msgid "3Mbps|1280x720"
+msgstr "3 Mbps | 1280x720"
+
+msgctxt "#1281"
+msgid "4Mbps|1920x1080"
+msgstr "4 Mbps | 1920x1080"
+
+msgctxt "#1282"
+msgid "8Mbps|1920x1080"
+msgstr "8 Mbps | 1920x1080"
+
+msgctxt "#1283"
+msgid "10Mbps|1920x1080"
+msgstr "10 Mbps | 1920x1080"
+
+msgctxt "#1284"
+msgid "12Mbps|1920x1080"
+msgstr "12 Mbps | 1920x1080"
+
+msgctxt "#1285"
+msgid "20Mbps|1920x1080"
+msgstr "20 Mbps | 1920x1080"
+
+msgctxt "#1286"
+msgid "40Mbps|1920x1080"
+msgstr "40 Mbps | 1920x1080"
+
+msgctxt "#1287"
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+msgctxt "#1288"
+msgid "Transcode local files"
+msgstr "Helyi fájlok átkódolása"
+
+msgctxt "#1289"
+msgid "Transcode Plex videos over local LAN network"
+msgstr "Plex videók átkódolása helyi hálózaton keresztül"
+
+msgctxt "#1290"
+msgid "Transcode local H265 or VC-1 files"
+msgstr " Helyi H265 vagy VC-1 fájlok átkódolása"
+
+msgctxt "#1292"
+msgid "Transcode audio to AAC"
+msgstr "Hang átkódolása AAC formátumba"
 
 msgctxt "#1300"
 msgid "Custom audio device"
@@ -3721,6 +3925,38 @@ msgstr "Kiegészítő hiba"
 msgctxt "#2104"
 msgid "Check the log for more information."
 msgstr "További információk a hibanaplóban"
+
+msgctxt "#2105"
+msgid "Emby client"
+msgstr "Emby kliens"
+
+msgctxt "#2111"
+msgid "Emby Servers Sources"
+msgstr "Emby kiszolgálók forrásai"
+
+msgctxt "#2112"
+msgid "Emby Servers Sources"
+msgstr "Emby kiszolgálók forrásai"
+
+msgctxt "#2115"
+msgid "Sign-in"
+msgstr "Bejelentkezés"
+
+msgctxt "#2116"
+msgid "Sign-out"
+msgstr "Kijelentkezés"
+
+msgctxt "#2117"
+msgid "From your computer, go to this url"
+msgstr "Számítógépen nyisd meg ezt az URL-t"
+
+msgctxt "#2119"
+msgid " and enter this code -> "
+msgstr " majd add meg ezt a kódot -> "
+
+msgctxt "#2120"
+msgid "Trakt.tv client"
+msgstr "Trakt.tv kliens"
 
 msgctxt "#10000"
 msgid "Home"
@@ -4078,6 +4314,10 @@ msgctxt "#12022"
 msgid "Resume from %s"
 msgstr "Folytatás innen: %s"
 
+msgctxt "#12309"
+msgid "10"
+msgstr "10"
+
 msgctxt "#12311"
 msgid "1"
 msgstr "1"
@@ -4249,6 +4489,10 @@ msgstr "A mesterkód érvénytelen. Kérem adjon meg egy érvényes mesterkódot
 msgctxt "#12373"
 msgid "Settings & file manager"
 msgstr "Beállítások és fájlkezelő"
+
+msgctxt "#12374"
+msgid "Loading database, please wait"
+msgstr "Adatbázis betöltése, kérem várjon"
 
 msgctxt "#12376"
 msgid "Set as default for all media"
@@ -6514,6 +6758,10 @@ msgctxt "#16312"
 msgid "VDPAU - Noise reduction"
 msgstr "VDPAU - Zajszűrés"
 
+msgctxt "#16313"
+msgid "Sharpness"
+msgstr "Élesség"
+
 msgctxt "#16314"
 msgid "Inverse telecine"
 msgstr "Fordított telecine konvertálás"
@@ -8202,6 +8450,10 @@ msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Képernyőmentések "
 
+msgctxt "#20009"
+msgid "Use MrMC"
+msgstr "MrMC használata"
+
 msgctxt "#20011"
 msgid "Music playlists"
 msgstr "Zenei lejátszólista"
@@ -8786,6 +9038,10 @@ msgctxt "#20173"
 msgid "FTP server"
 msgstr "FTP kiszolgáló"
 
+msgctxt "#20174"
+msgid "Emby server (http)"
+msgstr "Emby szerver (http)"
+
 msgctxt "#20175"
 msgid "UPnP server"
 msgstr "UPnP kiszolgáló"
@@ -8821,6 +9077,10 @@ msgstr "Szóköz"
 msgctxt "#20183"
 msgid "Reload skin"
 msgstr "Felhasználói felület újraindítása"
+
+msgctxt "#20184"
+msgid "Emby server (https)"
+msgstr "Emby szerver (https)"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
@@ -8914,6 +9174,10 @@ msgctxt "#20244"
 msgid "Android apps"
 msgstr "Android alkalmazások"
 
+msgctxt "#20245"
+msgid "Android Settings"
+msgstr "Android beállítások"
+
 msgctxt "#20250"
 msgid "Party on! (videos)"
 msgstr "Party indul! (videók)"
@@ -8949,6 +9213,18 @@ msgstr "Secure Shell (SSH/SFTP)"
 msgctxt "#20262"
 msgid "Zeroconf browser"
 msgstr "Zeroconf Böngésző"
+
+msgctxt "#20263"
+msgid "New Skin"
+msgstr "Új kinézet"
+
+msgctxt "#20264"
+msgid "MrMC has new default skin, would you like to switch to it?"
+msgstr "MrMC-nek új alapértelmezett kinézete van, szeretnél átváltani?"
+
+msgctxt "#20266"
+msgid "please use System -> Apearance menu"
+msgstr "Használd a Rendszer -> Kinézet menüt"
 
 msgctxt "#20300"
 msgid "Web server directory (HTTP)"
@@ -9594,6 +9870,10 @@ msgctxt "#20471"
 msgid "Show empty TV shows"
 msgstr "Üres TV sorozatok megjelenítése"
 
+msgctxt "#20472"
+msgid "Import all videos"
+msgstr "Minden videó importálása"
+
 msgctxt "#21330"
 msgid "Show hidden files and directories"
 msgstr "Rejtett fájlok és mappák megjelenítése"
@@ -10025,6 +10305,10 @@ msgstr "Több beszerzése…"
 msgctxt "#21453"
 msgid "Root filesystem"
 msgstr "Gyökér fájlrendszer"
+
+msgctxt "#21454"
+msgid "Source too slow"
+msgstr "A forrás túl lassú"
 
 msgctxt "#21456"
 msgid "External storage"
@@ -10978,6 +11262,10 @@ msgctxt "#24093"
 msgid "Checking %s..."
 msgstr "%s ellenőrzése…"
 
+msgctxt "#24094"
+msgid "Database migration in progress - please wait"
+msgstr "Adatbázis-migráció folyamatban - kérlek várj"
+
 msgctxt "#24095"
 msgid "Local package cache"
 msgstr "Helyi csomagok gyorsítótára"
@@ -11186,6 +11474,34 @@ msgctxt "#24147"
 msgid "Failed to scan %s: %s"
 msgstr "%s átvizsgálása sikertelen: %s"
 
+msgctxt "#24150"
+msgid "OpenSubtitles.org"
+msgstr "OpenSubtitles.org"
+
+msgctxt "#24151"
+msgid "Podnapisi.net"
+msgstr "Podnapisi.net"
+
+msgctxt "#24156"
+msgid "30 Seconds"
+msgstr "30 másodperc"
+
+msgctxt "#24157"
+msgid "60 Seconds"
+msgstr "60 másodperc"
+
+msgctxt "#24158"
+msgid "90 Seconds"
+msgstr "90 másodperc"
+
+msgctxt "#24159"
+msgid "120 Seconds"
+msgstr "120 másodperc"
+
+msgctxt "#24164"
+msgid "Use libdsm for smb servers"
+msgstr "libdsm használata smb kiszolgálókhoz"
+
 msgctxt "#24992"
 msgid "System"
 msgstr "Rendszer"
@@ -11261,6 +11577,10 @@ msgstr "A Blu-ray lemez menüje nem támogatott"
 msgctxt "#25010"
 msgid "Chapter %u"
 msgstr "%u. fejezet"
+
+msgctxt "#25011"
+msgid "Automatically start subtitle search"
+msgstr "Felirat keresés automatikus indítása"
 
 msgctxt "#29801"
 msgid "QWERTY keyboard"
@@ -12010,6 +12330,22 @@ msgctxt "#34128"
 msgid "192.0"
 msgstr "192.0"
 
+msgctxt "#34129"
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgctxt "#34130"
+msgid "2 times less"
+msgstr "Kétszer kevesebb"
+
+msgctxt "#34131"
+msgid "10 times less"
+msgstr "Tízszer  kevesebb"
+
+msgctxt "#34132"
+msgid "100 times less"
+msgstr "Százszor kevesebb"
+
 msgctxt "#34201"
 msgid "Can't find a next item to play"
 msgstr "Nincs következő lejátszandó elem"
@@ -12189,6 +12525,10 @@ msgstr "Nem sikerült észlelni a CEC com portot. Kérjük állítsa be kézzel.
 msgctxt "#36012"
 msgid "Couldn't initialise the CEC adapter. Please check your settings."
 msgstr "Nem sikerült elérni a CEC adaptert. Kérjük ellenőrizze a beállításokat."
+
+msgctxt "#36014"
+msgid "disabling MYSQL configuration"
+msgstr "MYSQL konfiguráció kikapcsolása"
 
 msgctxt "#36015"
 msgid "HDMI port number"
@@ -13610,6 +13950,10 @@ msgctxt "#36461"
 msgid "Notification event describe regular processes and actions performed by the system or the user."
 msgstr "Az értesítési események a rendszer felhasználójának szokásos folyamatait és műveleteit írják le."
 
+msgctxt "#36463"
+msgid "Overwrite the SMB client configuration (smb.conf) on restart"
+msgstr "Az SMB kliens konfigurációjának felülírása (smb.conf) újraindításkor"
+
 msgctxt "#36500"
 msgid "Stereoscopic 3D mode / Current"
 msgstr "Sztereoszkópikus 3D mód / jelenlegi"
@@ -13790,6 +14134,54 @@ msgctxt "#36603"
 msgid "This category contains the settings for how video output is handled."
 msgstr "Ez a kategória a videókimenet beállításait tartalmazza."
 
+msgctxt "#36604"
+msgid "Sort library items by date added"
+msgstr "A könyvtár elemeinek rendezése a hozzáadás dátuma szerint"
+
+msgctxt "#36606"
+msgid "Current date/time"
+msgstr "Jelenlegi dátum/idő"
+
+msgctxt "#36609"
+msgid "Timeout in seconds"
+msgstr "Időtúllépés másodpercben"
+
+msgctxt "#36610"
+msgid "Timeout in seconds for libcurl (http/ftp) connections"
+msgstr "Időtúllépés másodpercben a libcurl (http/ftp) kapcsolatokhoz"
+
+msgctxt "#36613"
+msgid "Amount of retries"
+msgstr "Újrapróbálkozások száma"
+
+msgctxt "#36615"
+msgid "Disable ipv6"
+msgstr "Az Ipv6 kikapcsolása"
+
+msgctxt "#36617"
+msgid "Buffer size (MB)"
+msgstr "Pufferméret (MB)"
+
+msgctxt "#36619"
+msgid "Buffer mode"
+msgstr "Puffer üzemmód"
+
+msgctxt "#36624"
+msgid "No buffer"
+msgstr "Nincs puffer"
+
+msgctxt "#36627"
+msgid "SMB timeout"
+msgstr "SMB időtúllépés"
+
+msgctxt "#36628"
+msgid "SMB timeout (in seconds)"
+msgstr "SMB időtúllépés (másodperc)"
+
+msgctxt "#36632"
+msgid "Timeout in seconds for MySQL connections"
+msgstr "Időtúllépés másodpercben a MySQL kapcsolatokhoz"
+
 msgctxt "#36900"
 msgid "movie"
 msgstr "film"
@@ -13950,6 +14342,10 @@ msgctxt "#37026"
 msgid "Auto"
 msgstr "Auto"
 
+msgctxt "#37027"
+msgid "1080"
+msgstr "1080"
+
 msgctxt "#37028"
 msgid "720"
 msgstr "720"
@@ -14022,6 +14418,22 @@ msgctxt "#37045"
 msgid "Extract chapter thumbnails for presentation in the chapters / bookmarks dialogue. This might increase CPU load."
 msgstr "Bélyegképek kinyerése a fejezetekből a fejezetek / könyvjelzők párbeszédablakhoz. Ez növelheti a CPU terhelést."
 
+msgctxt "#37046"
+msgid "Boost center channel when downmixing"
+msgstr "A középsõ csatorna felerõsítése lekeveréskor"
+
+msgctxt "#37048"
+msgid "%i dB"
+msgstr "%i dB"
+
+msgctxt "#37050"
+msgid "Local server only"
+msgstr "Csak helyi kiszolgáló"
+
+msgctxt "#37051"
+msgid "All servers"
+msgstr "Minden kiszolgáló"
+
 msgctxt "#38010"
 msgid "GPU accelerated"
 msgstr "GPU gyorsított"
@@ -14073,3 +14485,83 @@ msgstr "Nincs értékelés"
 msgctxt "#38023"
 msgid "Set my rating"
 msgstr "Értékelés beállítása"
+
+msgctxt "#38110"
+msgid "Support MVC video (full frame 3D)"
+msgstr "MVC videó támogatás (full frame 3D)"
+
+msgctxt "#38112"
+msgid "Use Full HD HDMI modes for 3D"
+msgstr "Használja a Full HD HDMI módokat a 3D-hez"
+
+msgctxt "#896"
+msgid "You are currently using Lite version of MrMC,"
+msgstr "Jelenleg a MrMC Lite verzióját használja"
+
+msgctxt "#898"
+msgid "please consider upgrading to full version on %s store."
+msgstr "Kérjük, fontolja meg a teljes verzióra frissítést a(z) %s áruházból."
+
+msgctxt "#25013"
+msgid "Commercial"
+msgstr "Hirdetés"
+
+msgctxt "#25014"
+msgid "Auto-skip off"
+msgstr "Automatikus átugrás ki"
+
+msgctxt "#25015"
+msgid "Auto-skip on"
+msgstr "Automatikus átugrás be"
+
+msgctxt "#681"
+msgid "Recently Added"
+msgstr "Nemrég hozzáadott"
+
+msgctxt "#35505"
+msgid "Enable dark theme"
+msgstr "Sötét téma engedélyezése"
+
+msgctxt "#35506"
+msgid "Main menu options"
+msgstr "Főmenü opciók"
+
+msgctxt "#1178"
+msgid "Show watched items on home screen"
+msgstr "A megtekintett elemek megjelenítése a fôképernyőn"
+
+msgctxt "#1179"
+msgid "Show or hide watched items in Recntly Added home screen"
+msgstr "A megtekintett elemek megjelenítése vagy eljejtése a \"Nemrég hozzáadott\" nyitótképernyőn"
+
+msgctxt "#899"
+msgid "Enable focus effects"
+msgstr "A \"focus effects\" funkció bekapcsolása"
+
+msgctxt "#900"
+msgid "Enable Siri focus effects, focus slide and focus zoom"
+msgstr "Siri \"focus effects\", \"focus slide\" és \"focus zoom\" funkciók bekapcsolása"
+
+msgctxt "#901"
+msgid "Enable Siri expert mode"
+msgstr "Siri \"szakértői mód\" engedélyezése"
+
+msgctxt "#902"
+msgid "Enable Siri expert mode, deselecting this will make video player behave like native tvOS player."
+msgstr "Siri \"szakértői mód\" engedélyezése, a jelölés eltávolítása után a videólejátszó úgy viselkedik, mint a natív tvOS lejátszó."
+
+msgctxt "#1294"
+msgid "Transcode local VC-1 files"
+msgstr "Helyi VC-1 fájlok átkódolása"
+
+msgctxt "#1295"
+msgid "Transcode local H265 files"
+msgstr "Helyi H265 fájlok átkódolása"
+
+msgctxt "#13461"
+msgid "Use VideoToolBox for 4K HEVC HDR content"
+msgstr "VideoToolBox használata 4K HEVC HDR tartalomhoz"
+
+msgctxt "#36643"
+msgid "Use VideoToolBox for 4K HEVC/HDR content but AVFoundation is preferred to get correct color mapping"
+msgstr "VideoToolBox használata 4K HEVC HDR tartalomhoz, de az AVFoundation előnyben részesítése a helyes színes leképezéshez"
