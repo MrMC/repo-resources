@@ -3,11 +3,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: lokalise.co\n"
+"X-Generator: lokalise.com\n"
 "Project-Id-Version: MrMC\n"
-"PO-Revision-Date: 2019-03-10 21:26\n"
-"Last-Translator: lokalise.co\n"
-"Language-Team: lokalise.co\n\n"
+"PO-Revision-Date: 2019-09-17 18:04\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
 "Language: sv_se\n"
 
 msgctxt "#0"
@@ -432,7 +432,7 @@ msgstr "Låtar"
 
 msgctxt "#135"
 msgid "Genres"
-msgstr "Genre"
+msgstr "Genrer"
 
 msgctxt "#136"
 msgid "Playlists"
@@ -608,7 +608,7 @@ msgstr "%s har startats framgångsrikt."
 
 msgctxt "#179"
 msgid "Song"
-msgstr "Låt"
+msgstr "Melodi"
 
 msgctxt "#180"
 msgid "Duration"
@@ -640,7 +640,7 @@ msgstr "OK"
 
 msgctxt "#187"
 msgid "No albums found!"
-msgstr "Inga album hittades!"
+msgstr "Inget album hittades!"
 
 msgctxt "#188"
 msgid "Select all"
@@ -684,7 +684,7 @@ msgstr "Hämtar information för %s"
 
 msgctxt "#198"
 msgid "Loading movie details"
-msgstr "Laddar filmdetaljer"
+msgstr "Laddar filminformation"
 
 msgctxt "#199"
 msgid "Web interface"
@@ -792,7 +792,7 @@ msgstr "Testmönster..."
 
 msgctxt "#227"
 msgid "Load audio CD information from online service"
-msgstr "Ladda hem audio CD information från online tjänst"
+msgstr "Hämta ljud-CD information från online tjänst"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
@@ -2284,7 +2284,7 @@ msgstr "Alla låtar av"
 
 msgctxt "#626"
 msgid "In progress TV shows"
-msgstr "Pågående TV-program"
+msgstr "Pågående TV-serier"
 
 msgctxt "#629"
 msgid "View mode"
@@ -5700,11 +5700,11 @@ msgstr "Använd sommartid"
 
 msgctxt "#14076"
 msgid "Add to favourites"
-msgstr "Lägg till i favoriter"
+msgstr "Addera till \"Favoriter\""
 
 msgctxt "#14077"
 msgid "Remove from favourites"
-msgstr "Ta bort från favoriter"
+msgstr "Ta bort från \"Favoriter\""
 
 msgctxt "#14078"
 msgid "Colours"
@@ -5748,7 +5748,7 @@ msgstr "Spela upp DVD'er automatiskt"
 
 msgctxt "#14089"
 msgid "Font to use for text subtitles"
-msgstr "Typsnitt för textbaserade undertexter"
+msgstr "Typsnitt som används för undertexter"
 
 msgctxt "#14090"
 msgid "International"
@@ -7892,7 +7892,7 @@ msgstr "Kampsport"
 
 msgctxt "#19564"
 msgid "Children's / Youth programmes"
-msgstr "Barn och ungdomsprogram"
+msgstr "Barn- och ungdomsprogram"
 
 msgctxt "#19565"
 msgid "Pre-school children's programmes"
@@ -8040,7 +8040,7 @@ msgstr "Fritid / Hobby"
 
 msgctxt "#19645"
 msgid "Tourism / Travel"
-msgstr "Turism / Resa"
+msgstr "Turism / Resor"
 
 msgctxt "#19646"
 msgid "Handicraft"
@@ -8197,6 +8197,10 @@ msgstr "Inspelningar"
 msgctxt "#20008"
 msgid "Screenshots"
 msgstr "Skärmdumpar"
+
+msgctxt "#20009"
+msgid "Use MrMC"
+msgstr "Använd MrMC"
 
 msgctxt "#20011"
 msgid "Music playlists"
@@ -10328,7 +10332,7 @@ msgstr "Källa"
 
 msgctxt "#21871"
 msgid "Copyright notice"
-msgstr "Upphovsrättsnotering"
+msgstr "Upphovsrättsinformation"
 
 msgctxt "#21872"
 msgid "Object name"
@@ -10372,7 +10376,7 @@ msgstr "Tillåt fjärrstyrning via UPnP"
 
 msgctxt "#21882"
 msgid "Attempt to skip introduction before DVD menu"
-msgstr "Försök hoppa över introduktionen innan DVD-menyn"
+msgstr "Försök att hoppa över introduktionen innan DVD-menyn"
 
 msgctxt "#21883"
 msgid "Saved music"
@@ -12484,7 +12488,7 @@ msgstr "Ladda ner miniatyrbilder på skådespelare från databaser online när m
 
 msgctxt "#36144"
 msgid "Select in which cases you want to hide the season nodes of TV shows. If hidden, selecting a TV show will directly jump into the episodes view."
-msgstr "Välj i vilka fall du vill dölja säsonger av ett TV-program. Om dold, visas episoder direkt vid val av ett TV-program."
+msgstr "Ange villkor för att dölja länkar till säsonger av en TV-serie. Om säsongerna är dolda visas episoderna direkt när man väljer en TV-serie."
 
 msgctxt "#36145"
 msgid "When enabled, movies belonging to a \"Movie set\" are grouped together under one entry for the set in the movie library, this entry can then be opened to display the individual movies. When disabled, each movie will have it's own entry in the movie library even if it belongs to a set."
@@ -13832,23 +13836,23 @@ msgstr "Timeout i sekunder för anslutning till MySQL"
 
 msgctxt "#36633"
 msgid "Pull watched status from Trakt.tv server"
-msgstr "Hämta visningsstatus från trakt.tv-servern"
+msgstr "Hämta visningsstatus från Trakt.tv-servern"
 
 msgctxt "#36634"
 msgid "Function to retreive watched status for items on Trakt.tv server, MySql and sqlite(internal MrMC database) only."
-msgstr "Funktion för att hämta visningsstatus för objekt på trakt.tv-servern. Endast för MySQL och sqlite (MrMC:s interna databas)."
+msgstr "Funktion för att hämta visningsstatus för objekt på Trakt.tv-servern. (Gäller endast lokala MrMC-databaser i MySQL och SQLite.)"
 
 msgctxt "#36635"
 msgid "Push watched status to Trakt.tv server"
-msgstr "Skicka visningsstatus till trakt.tv-servern."
+msgstr "Skicka visningsstatus till Trakt.tv."
 
 msgctxt "#36637"
 msgid "This might cause some duplicate entries in trakt.tv and/or MrMC database. Do you want to proceed?"
-msgstr "Det här kan skapa dubbletter i trakt.tv- och/eller MrMC-databasen. Vill du fortsätta?"
+msgstr "Detta kan skapa dubbletter i Trakt.tv och/eller MrMC-databasen. Vill du fortsätta?"
 
 msgctxt "#36639"
 msgid "This setting will trigger push or pull trakt action after Library Scan has been completed."
-msgstr "Den här inställningen kommer att synka databasen med trakt efter att biblioteksgenomsökningen har slutförts."
+msgstr "Den här inställningen kommer att aktivera en synkronisera av din databas med Trakt efter att en sökning i biblioteket har genomförts."
 
 msgctxt "#36641"
 msgid "Push watched status"
@@ -13980,7 +13984,7 @@ msgstr "Bläddra i"
 
 msgctxt "#37016"
 msgid "Select this option if your receiver is capable of decoding Dolby Digital Plus (E-AC3) streams."
-msgstr "Välj detta alternativ om din mottagare kan avkoda Dolby Digital Plus (E-AC3) ljudströmmar."
+msgstr "Välj detta alternativ om din mottagare kan avkoda ljudströmmar i Dolby Digital Plus (Enhanced AC3)."
 
 msgctxt "#37017"
 msgid "Dual audio output"
@@ -13988,7 +13992,7 @@ msgstr "Dubbel ljudutgång"
 
 msgctxt "#37018"
 msgid "Boost centre channel when downmixing"
-msgstr "Höj centerkanalen vid nedmixning"
+msgstr "Höj ljudet i centerkanalen vid nedmixning"
 
 msgctxt "#37020"
 msgid "Enable higher colour depth artwork"
@@ -13996,7 +14000,7 @@ msgstr "Aktivera grafik med högre färgdjup"
 
 msgctxt "#37021"
 msgid "Set GUI resolution limit"
-msgstr "Ange gräns för användargränssnittsupplösning"
+msgstr "Ange gränsvärde för upplösningen i användargränssnittet"
 
 msgctxt "#37022"
 msgid "UPnP player"
@@ -14088,15 +14092,15 @@ msgstr "Definierar tid att vänta på efterföljande knapptryckningar innan ett 
 
 msgctxt "#37044"
 msgid "Extract chapter thumbnails"
-msgstr "Hämta kapitelminiatyrer"
+msgstr "Hämta miniatyrbilder till kapitel"
 
 msgctxt "#37045"
 msgid "Extract chapter thumbnails for presentation in the chapters / bookmarks dialogue. This might increase CPU load."
-msgstr "Hämta kapitelminiatyrer för presentation i kapitel / bokmärkesdialogen. Detta kan öka processorbelastningen."
+msgstr "Hämta miniatyrbilder till kapitel för presentation i kapitel och bokmärkesdialoger. Detta kan öka belastningen på processorn."
 
 msgctxt "#37046"
 msgid "Boost center channel when downmixing"
-msgstr "Höj centerkanalen vid nedmixning"
+msgstr "Höj ljudet i centerkanalen vid nedmixning"
 
 msgctxt "#37047"
 msgid "Increase this value to make the dialogue louder compared to background sounds when downmixing multichannel audio"
@@ -14132,19 +14136,19 @@ msgstr "GPU-accelererad"
 
 msgctxt "#38011"
 msgid "Show \"All items\" entry"
-msgstr "Visa \"Allt\" meny"
+msgstr "Visa alternativet \"Allt\""
 
 msgctxt "#38012"
 msgid "Show \"All items\" entry in directory, e.g. \"All albums\" or \"All seasons\"."
-msgstr "Visa \"Allt\" meny i katalogen. Till exempel \"Alla album\" eller \"Alla säsonger\"."
+msgstr "Visa alternativet \"Allt\" i katalogen, till exempel \"Alla album\" eller \"Alla säsonger\"."
 
 msgctxt "#38013"
 msgid "Limit GUI updates during playback"
-msgstr "Begränsa användargränssnittsuppdateringar under uppspelning"
+msgstr "Begränsa uppdatering av användargränssnittet under uppspelning"
 
 msgctxt "#38014"
 msgid "Limits the speed (fps) used to update the GUI while playing videos. This can reduce CPU load and fix playback issues while the GUI is shown."
-msgstr "Begränsar hastigheten (fps) som används för att uppdatera användargränssnittet under uppspelning av videor. Detta kan reducera processoranvändningen och fixa uppspelningsproblem när användargränssnittet visas."
+msgstr "Begränsar hastigheten (fps) som används för att uppdatera användargränssnittet under uppspelning av film. Detta kan reducera belastningen på processorn och åtgärda uppspelningsproblem när användargränssnittet visas."
 
 msgctxt "#38015"
 msgid "Unlimited"
@@ -14156,7 +14160,7 @@ msgstr "%d fps"
 
 msgctxt "#38017"
 msgid "Region A - Americas, East Asia and Southeast Asia. Region B - Africa, Middle East, Southwest Asia, Europe, Australia, New Zealand. Region C - Central Asia, mainland China, Mongolia, South Asia, Belarus, Russia, Ukraine, Kazakhstan."
-msgstr "Region A - Amerika, Ostasien och Sydostasien. Region B - Afrika, Mellanöstern, Sydvästasien, Europa, Australien, Nya Zealand. Region C - Centralasien, Fastlandskina, Mongoliet, Södra Asien, Vitryssland, Ryssland, Ukraina, Kazakhstan."
+msgstr "Region A - Syd- och Nordamerika, Ostasien och Sydostasien. Region B - Afrika, Mellanöstern, Sydvästasien, Europa, Australien, Nya Zealand. Region C - Centralasien, Fastlandskina, Mongoliet, Södra Asien, Vitryssland, Ryssland, Ukraina, Kazakstan."
 
 msgctxt "#38018"
 msgid "My rating"
@@ -14228,8 +14232,330 @@ msgstr "Aktivera mörkt tema"
 
 msgctxt "#35506"
 msgid "Main menu options"
-msgstr "Huvudmenyalternativ"
+msgstr "Alternativ för huvudmeny"
 
 msgctxt "#35507"
 msgid "TV Menu goes to TV Guide"
 msgstr "TV-meny öppnar TV-guide"
+
+msgctxt "#19240"
+msgid "No PVR extension enabled"
+msgstr "Inget tillägg för Personal Video Recording (PVR) är aktiverat"
+
+msgctxt "#19271"
+msgid "No PVR extensions could be found"
+msgstr "Inget tillägg för Personal Video Recording (PVR) kunde hittas"
+
+msgctxt "#19274"
+msgid "You need an extension installed to be able to use audio digital signal processing (DSP)."
+msgstr "Du måste installera ett tillägg för att kunna göra Digital Signal Processing (DSP) på ljudet."
+
+msgctxt "#21342"
+msgid "There are currently no updates available for this extension."
+msgstr "Det finns för tillfället inga uppdateringar av detta tillägg"
+
+msgctxt "#21472"
+msgid "Include \"All seasons\" and \"Specials\\"
+msgstr "Inkludera \"Alla säsonger\" och \"Special\\"
+
+msgctxt "#21476"
+msgid "Just \"All seasons\\"
+msgstr "Endast \"Alla säsonger\\"
+
+msgctxt "#21477"
+msgid "Just \"Specials\\"
+msgstr "Endast \"Special\\"
+
+msgctxt "#24000"
+msgid "Extension"
+msgstr "Tillägg"
+
+msgctxt "#24001"
+msgid "Extensions"
+msgstr "Tillägg"
+
+msgctxt "#24002"
+msgid "Extension options"
+msgstr "Inställningar av tillägg"
+
+msgctxt "#24003"
+msgid "Extension information"
+msgstr "Information om tillägg"
+
+msgctxt "#24024"
+msgid "Extensions disabled"
+msgstr "Tillägg avstängda"
+
+msgctxt "#24030"
+msgid "This extensions can not be configured"
+msgstr "Detta tillägg kan inte konfigureras"
+
+msgctxt "#24032"
+msgid "All extensions"
+msgstr "Alla tillägg"
+
+msgctxt "#24039"
+msgid "Disabled extensions"
+msgstr "Avstängda tillägg"
+
+msgctxt "#24044"
+msgid "Dependencies not met. Please contact extensions author."
+msgstr "Alla beroenden kan inte uppfyllas. Var vänlig kontakta Utvecklaren av tillägget."
+
+msgctxt "#24045"
+msgid "Failed to install extension from zip file"
+msgstr "Misslyckades med att installera tillägget från ZIP-fil"
+
+msgctxt "#24046"
+msgid "%s is used by the following installed extensions(s)"
+msgstr "%s används av dessa installerade tillägg"
+
+#, fuzzy
+msgctxt "#24047"
+msgid "This extensions can't be uninstalled"
+msgstr "Detta tillägg kan inte raderas"
+
+msgctxt "#24050"
+msgid "Available extensions"
+msgstr "Tillgängliga tillägg"
+
+msgctxt "#24059"
+msgid "Would you like to enable this extension?"
+msgstr "Vill du aktivera detta tillägg?"
+
+msgctxt "#24060"
+msgid "Would you like to disable this extension?"
+msgstr "Vill du stänga av detta tillägg?"
+
+msgctxt "#24061"
+msgid "Extension updates available"
+msgstr "Ny version av tillägget är tillgängligt"
+
+msgctxt "#24062"
+msgid "Enabled extensions"
+msgstr "Aktiverade tillägg"
+
+msgctxt "#24064"
+msgid "Extension enabled"
+msgstr "Tillägget är aktiverat"
+
+msgctxt "#24065"
+msgid "Extension updated"
+msgstr "Tillägget är uppdaterat"
+
+msgctxt "#24066"
+msgid "Cancel extension download?"
+msgstr "Avbryt nedladdning av tillägg?"
+
+msgctxt "#24067"
+msgid "Currently downloading extensions"
+msgstr "Nedladdning av tillägg pågår"
+
+msgctxt "#24070"
+msgid "Extension couldn't be loaded."
+msgstr "Tillägget kunde inte laddas."
+
+msgctxt "#24077"
+msgid "Verifying downloaded extension..."
+msgstr "Verifierar nedladdat tillägg..."
+
+msgctxt "#24078"
+msgid "Downloading extension..."
+msgstr "Laddar ner tillägg..."
+
+msgctxt "#24086"
+msgid "Installing extension..."
+msgstr "Installerar tillägg..."
+
+msgctxt "#24088"
+msgid "The DSP extension is currently in use and can't be modified."
+msgstr "Tillägget för Digital Sound Processing (DSP) används för tillfället och kan inte modifieras."
+
+msgctxt "#24089"
+msgid "Extension restarts"
+msgstr "Tillägget startas om"
+
+msgctxt "#24091"
+msgid "This extension can't be disabled"
+msgstr "Detta tillägg kan inte stängas av"
+
+msgctxt "#24092"
+msgid "Checking for extension updates"
+msgstr "Kontrollerar efter nya versioner av tillägget"
+
+msgctxt "#24100"
+msgid "To use this feature you must download an extension:"
+msgstr "För att använda denna funktion måste du ladda ner ett tillägg:"
+
+msgctxt "#24101"
+msgid "Would you like to download this extension?"
+msgstr "Vill du ladda ner detta tillägg?"
+
+msgctxt "#24104"
+msgid "Extension is incompatible due to unmet dependencies."
+msgstr "Tillägget är ej kompatibelt beroende på ej uppfyllda beroenden."
+
+msgctxt "#24138"
+msgid "DSP extension is currently in use and can't be removed."
+msgstr "Tillägget för Digital Sound Processing (DSP) används för tillfället och kan inte raderas."
+
+msgctxt "#24139"
+msgid "View Extension"
+msgstr "Visa Tillägg"
+
+msgctxt "#24141"
+msgid "Extension disabled"
+msgstr "Tillägg avstängt"
+
+msgctxt "#24143"
+msgid "Installing the Extension from zip file located at %s failed due to an invalid structure."
+msgstr "Installationen av tillägget från ZIP-filen placerad på/i %s misslyckades på grund av felaktig struktur."
+
+msgctxt "#24167"
+msgid "Watch as 2D"
+msgstr "Visa 2-dimensionellt (2D)"
+
+msgctxt "#24998"
+msgid "Extensions"
+msgstr "Tillägg"
+
+msgctxt "#36554"
+msgid "Press again to Minimize"
+msgstr "Tryck igen för att Minimera"
+
+msgctxt "#483"
+msgid "Upload Debuglog"
+msgstr "Ladda upp loggningsfil för felsökning"
+
+msgctxt "#484"
+msgid "Using this will upload your debuglog to MrMC servers for further debugging.\n Note: this will expose your settings and details about media being played."
+msgstr "Använd denna funktion för att ladda upp din loggningsfil till McMC:s server för fortsatt felsökning.\n Observera att filen även kommer att innehålla dina personliga inställningar och detaljer om det media du tittade på."
+
+msgctxt "#685"
+msgid "iCloud"
+msgstr "iCloud"
+
+msgctxt "#686"
+msgid "Apple iCloud backup of local database and settings."
+msgstr "Backup till Apple iCloud av databas och inställningar."
+
+msgctxt "#687"
+msgid "Enable iCloud backup"
+msgstr "Aktivera säkerhetskopiering till iCloud"
+
+#, fuzzy
+msgctxt "#688"
+msgid "Enable iCloud backup of local database and settings. Change to Advanced Settings to see the full list of backup and restore options"
+msgstr "Aktivera möjlighet att säkerhetskopiera din lokala databas och inställningar till Apple iCloud. Ändra till \"Advanced Settings\" för att se en komplett lista med alla möjligheter för säkerhetskopiering."
+
+msgctxt "#689"
+msgid "Backup to iCloud"
+msgstr "Säkerhetskopiering till iCloud"
+
+msgctxt "#690"
+msgid "Initiate manual backup to iCloud"
+msgstr "Starta manuell säkerhetskopiering till Apple iCloud"
+
+msgctxt "#691"
+msgid "Restore from iCloud"
+msgstr "Återläsning från iCloud"
+
+msgctxt "#692"
+msgid "Initiate manual restore from iCloud"
+msgstr "Aktivera manuell återläsning från Apple iCloud"
+
+msgctxt "#693"
+msgid "Backup after completed library update"
+msgstr "Säkerhetskopiering efter en komplett uppdatering av biblioteket"
+
+msgctxt "#694"
+msgid "Automatic backup after each library update or clean, only for internal databases and settings"
+msgstr "Automatisk säkerhetskopiering efter varje uppdatering och städning. (Gäller endast lokal databas och inställningar.)"
+
+msgctxt "#695"
+msgid "Remove iCloud backup"
+msgstr "Radera säkerhetskopia i iCloud"
+
+msgctxt "#696"
+msgid "Removes iCloud backup, this can't be undone"
+msgstr "Raderar säkerhetskopia i Apple iCloud. OBS! Detta går inte att ångra."
+
+msgctxt "#731"
+msgid "Black"
+msgstr "Svart"
+
+msgctxt "#745"
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+msgctxt "#746"
+msgid "Background opacity"
+msgstr "Bakgrundens genomskinlighet"
+
+msgctxt "#13465"
+msgid "Avanced algorithm for picture timing. Might not work on some devices."
+msgstr "Avancerad algoritm för synkronisering av bilden. Fungerar eventuellt inte med vissa enheter."
+
+msgctxt "#14242"
+msgid "End scene"
+msgstr "Slutscen"
+
+msgctxt "#22025"
+msgid "Interface appearance"
+msgstr "Utseende på gränssnitt"
+
+msgctxt "#22026"
+msgid "System"
+msgstr "Systemet"
+
+msgctxt "#22027"
+msgid "Light"
+msgstr "Ljus"
+
+msgctxt "#22028"
+msgid "Dark"
+msgstr "Mörk"
+
+msgctxt "#22029"
+msgid "Change appearance of backgrounds and menus. Light, dark or set by system"
+msgstr "Ändra utseendet på bakgrunder och menyer. Ljus, mörk eller styrt av systemet"
+
+msgctxt "#36293"
+msgid "Set the color to be used for the subtitle background."
+msgstr "Välj bakgrundsfärg för undertexter."
+
+msgctxt "#36294"
+msgid "Set the the subtitle background opacity."
+msgstr "Välj genomskinlighet av bakgrundsfärgen för undertexter"
+
+msgctxt "#37046"
+msgid "Boost voice channel"
+msgstr "Höj ljudet i centerkanalen"
+
+msgctxt "#39000"
+msgid "HD and up"
+msgstr "HD eller bättre"
+
+msgctxt "#39001"
+msgid "Accelerate MPEG2"
+msgstr "Accelerera MPEG2"
+
+msgctxt "#39002"
+msgid "Accelerate MPEG4"
+msgstr "Accelerera MPEG4"
+
+msgctxt "#39003"
+msgid "Accelerate h264"
+msgstr "Accelerera H.264"
+
+msgctxt "#39004"
+msgid "Always (including DVD)"
+msgstr "Alltid (inklusive DVD)"
+
+msgctxt "#39008"
+msgid "Accelerate hevc"
+msgstr "Accelera HEVC (High Efficiency Video Coding)"
+
+msgctxt "#40001"
+msgid "Dropbox"
+msgstr "Dropbox"
